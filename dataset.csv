@@ -1,0 +1,904 @@
+file_id,audio_path,lyrics_path,midi_path,category,cluster,title,artist,album,year,split
+001,dataset/Audio/001.mp3,dataset/Lyrics/001.txt,,Boisterous,Cluster 1,(Mama) He Treats Your Daughter Mean,"Brown, Ruth",Best of Ruth Brown [Rhino],1996.0,dev
+002,dataset/Audio/002.mp3,,,Boisterous,Cluster 1,Night in Tunisia,"Blakey, Art & the Jazz Messengers",Night in Tunisia [1960],1960.0,test
+003,dataset/Audio/003.mp3,dataset/Lyrics/003.txt,,Boisterous,Cluster 1,Along Came Jones,Coasters,50 Coastin' Classics: Anthology,1992.0,train
+004,dataset/Audio/004.mp3,dataset/Lyrics/004.txt,dataset/MIDIs/004.mid,Boisterous,Cluster 1,Back in Black,AC/DC,Back in Black,1980.0,train
+005,dataset/Audio/005.mp3,,,Boisterous,Cluster 1,Bad Reputation,"Jett, Joan & Teh Blackhearts",Bad Reputation [Bonus Tracks],1992.0,train
+006,dataset/Audio/006.mp3,,,Boisterous,Cluster 1,Boogie Woogie Stomp,"Ammons, Albert",First Day,1939.0,train
+007,dataset/Audio/007.mp3,dataset/Lyrics/007.txt,,Boisterous,Cluster 1,Burn Rubber (Why You Wanna Hurt Me),Gap Band [1],Billboard Hot R&B Hits 1981,1996.0,dev
+008,dataset/Audio/008.mp3,dataset/Lyrics/008.txt,dataset/MIDIs/008.mid,Boisterous,Cluster 1,Cigarettes and Alcohol,Oasis,Definitely Maybe,1994.0,train
+009,dataset/Audio/009.mp3,dataset/Lyrics/009.txt,dataset/MIDIs/009.mid,Boisterous,Cluster 1,Country Grammar (Hot...),Nelly,"Source Presents: Hip Hop Hits, Vol. 4 [Clean]",2000.0,train
+010,dataset/Audio/010.mp3,dataset/Lyrics/010.txt,,Boisterous,Cluster 1,Fairytale of New York,"Pogues/MacColl, Kirsty",If I Should Fall from Grace with God [Germany Bonus Tracks],1987.0,train
+011,dataset/Audio/011.mp3,dataset/Lyrics/011.txt,,Boisterous,Cluster 1,Gimme a Pigfoot (And a Bottle of Beer),"Smith, Bessie",Collection,1989.0,train
+012,dataset/Audio/012.mp3,dataset/Lyrics/012.txt,dataset/MIDIs/012.mid,Boisterous,Cluster 1,Give It Away,Red Hot Chili Peppers,Blood Sugar Sex Magik,1991.0,train
+013,dataset/Audio/013.mp3,dataset/Lyrics/013.txt,,Boisterous,Cluster 1,God! Show Me Magic,Super Furry Animals,Fuzzy Logic,1996.0,dev
+014,dataset/Audio/014.mp3,,,Boisterous,Cluster 1,High School,MC Five,Back in the USA,1970.0,dev
+015,dataset/Audio/015.mp3,dataset/Lyrics/015.txt,,Boisterous,Cluster 1,I Know You Got Soul,"Byrd, Bobby",Bobby Byrd Got Soul: The Best of Bobby Byrd,1995.0,test
+016,dataset/Audio/016.mp3,dataset/Lyrics/016.txt,,Boisterous,Cluster 1,I Put a Spell on You,"Hawkins, Screamin' Jay",Voodoo Jive: The Best of Screamin' Jay Hawkins,1990.0,train
+017,dataset/Audio/017.mp3,dataset/Lyrics/017.txt,,Boisterous,Cluster 1,Insane in the Brain,Cypress Hill,Black Sunday,1993.0,dev
+018,dataset/Audio/018.mp3,,,Boisterous,Cluster 1,Just Like Me,"Revere, Paul & the Raiders",Essential Ride '63-'67,1995.0,dev
+019,dataset/Audio/019.mp3,dataset/Lyrics/019.txt,dataset/MIDIs/019.mid,Boisterous,Cluster 1,Let's Spend the Night Together,Rolling Stones,"Hot Rocks, 1964-1971",1972.0,train
+020,dataset/Audio/020.mp3,dataset/Lyrics/020.txt,dataset/MIDIs/020.mid,Boisterous,Cluster 1,Lucille,Little Richard,Georgia Peach,1991.0,train
+021,dataset/Audio/021.mp3,dataset/Lyrics/021.txt,,Boisterous,Cluster 1,Lust for Life,"Pop, Iggy",Lust for Life,1977.0,test
+022,dataset/Audio/022.mp3,dataset/Lyrics/022.txt,,Boisterous,Cluster 1,Neat Neat Neat,Damned,Damned Damned Damned,1977.0,test
+023,dataset/Audio/023.mp3,,,Boisterous,Cluster 1,One Monkey Don't Stop No Show,Big Maybelle,Complete OKeh Sessions 1952-1955,1994.0,train
+024,dataset/Audio/024.mp3,dataset/Lyrics/024.txt,,Boisterous,Cluster 1,Saturday Night Fish Fry,"Jordan, Louis [1]",Best of Louis Jordan [MCA],1977.0,train
+025,dataset/Audio/025.mp3,dataset/Lyrics/025.txt,,Boisterous,Cluster 1,"Shake, Rattle and Roll","Turner, Big Joe [50s]",Very Best of Big Joe Turner,1951.0,train
+026,dataset/Audio/026.mp3,,,Boisterous,Cluster 1,"Sing, Sing, Sing, Pts. 1-2","Krupa, Gene/Goodman, Benny & His Orchestra","Swing Era, 1927-1947",1998.0,dev
+027,dataset/Audio/027.mp3,dataset/Lyrics/027.txt,,Boisterous,Cluster 1,Talk Dirty to Me,Poison,Poison's Greatest Hits 1986-1996,1996.0,train
+028,dataset/Audio/028.mp3,dataset/Lyrics/028.txt,,Boisterous,Cluster 1,Joint Is Jumpin',"Waller, Fats",Greatest Hits [RCA],1929.0,train
+029,dataset/Audio/029.mp3,dataset/Lyrics/029.txt,,Boisterous,Cluster 1,Walking the Dog,"Thomas, Rufus",Walking the Dog,1964.0,train
+030,dataset/Audio/030.mp3,dataset/Lyrics/030.txt,,Boisterous,Cluster 1,Wang Dang Doodle,"Taylor, Koko",What It Takes: The Chess Years,1977.0,dev
+031,dataset/Audio/031.mp3,,,Boisterous,Cluster 1,Wild Cat Blues,"Bechet, Sidney/Williams, Clarence/Blue Five",Ken Burns Jazz,2000.0,train
+032,dataset/Audio/032.mp3,dataset/Lyrics/032.txt,dataset/MIDIs/032.mid,Confident,Cluster 1,Achy Breaky Heart,"Cyrus, Billy Ray",Some Gave All,1992.0,train
+033,dataset/Audio/033.mp3,dataset/Lyrics/033.txt,,Confident,Cluster 1,All Right Now,Free [1],Molten Gold: The Anthology,1993.0,train
+034,dataset/Audio/034.mp3,dataset/Lyrics/034.txt,,Confident,Cluster 1,Bad,"Jackson, Michael [1]",Bad,1987.0,train
+035,dataset/Audio/035.mp3,,,Confident,Cluster 1,Big Pimpin',Jay Z/UGK,Vol. 3: Life and Times of S. Carter,1999.0,train
+036,dataset/Audio/036.mp3,dataset/Lyrics/036.txt,,Confident,Cluster 1,Big Time Sensuality,Bjork,Debut,1993.0,train
+037,dataset/Audio/037.mp3,dataset/Lyrics/037.txt,dataset/MIDIs/037.mid,Confident,Cluster 1,Blue Suede Shoes,"Presley, Elvis",King of Rock 'n' Roll: The Complete 50's Masters,1992.0,train
+038,dataset/Audio/038.mp3,dataset/Lyrics/038.txt,,Confident,Cluster 1,Brass in Pocket,Pretenders [1],Pretenders,1980.0,test
+039,dataset/Audio/039.mp3,dataset/Lyrics/039.txt,dataset/MIDIs/039.mid,Confident,Cluster 1,Bye Bye Bye,'N Sync,No Strings Attached,2000.0,train
+040,dataset/Audio/040.mp3,dataset/Lyrics/040.txt,dataset/MIDIs/040.mid,Confident,Cluster 1,Champagne Supernova,Oasis,(What's the Story) Morning Glory?,1995.0,train
+041,dataset/Audio/041.mp3,dataset/Lyrics/041.txt,,Confident,Cluster 1,Crazy on You,Heart [1],Greatest Hits [1998],1998.0,train
+042,dataset/Audio/042.mp3,dataset/Lyrics/042.txt,dataset/MIDIs/042.mid,Confident,Cluster 1,Dirty Deeds Done Dirt Cheap,AC-DC,Dirty Deeds Done Dirt Cheap,1976.0,train
+043,dataset/Audio/043.mp3,dataset/Lyrics/043.txt,,Confident,Cluster 1,Do Anything You Wanna Do,Eddie & The Hot Rods,Life on the Line,1977.0,train
+044,dataset/Audio/044.mp3,dataset/Lyrics/044.txt,dataset/MIDIs/044.mid,Confident,Cluster 1,Express Yourself,Madonna,Like a Prayer,1989.0,train
+045,dataset/Audio/045.mp3,dataset/Lyrics/045.txt,,Confident,Cluster 1,Feel Like Makin' Love,Bad Company [1],Original Bad Company Anthology,1999.0,train
+046,dataset/Audio/046.mp3,dataset/Lyrics/046.txt,,Confident,Cluster 1,Fujiyama Mama,"Jackson, Wanda",Vintage Collections Series,1996.0,train
+047,dataset/Audio/047.mp3,,,Confident,Cluster 1,Gangster of Love,"Watson, Johnny [1] ""Guitar""","Very Best of Johnny ""Guitar"" Watson [Rhino]",1999.0,dev
+048,dataset/Audio/048.mp3,dataset/Lyrics/048.txt,,Confident,Cluster 1,Goldfinger,"Bassey, Shirley",Best of James Bond: 30th Anniversary [1 Disc Set],1992.0,train
+049,dataset/Audio/049.mp3,dataset/Lyrics/049.txt,dataset/MIDIs/049.mid,Confident,Cluster 1,Heartbreaker,Led Zeppelin,Led Zeppelin II,1969.0,test
+050,dataset/Audio/050.mp3,dataset/Lyrics/050.txt,,Confident,Cluster 1,Hey Grandma,Moby Grape,Moby Grape,1967.0,train
+051,dataset/Audio/051.mp3,dataset/Lyrics/051.txt,,Confident,Cluster 1,Hound Dog,"Thornton, Big Mama",Hound Dog: The Peacock Recordings,1992.0,dev
+052,dataset/Audio/052.mp3,dataset/Lyrics/052.txt,,Confident,Cluster 1,I Am the Resurrection,"Stone Roses, The",Stone Roses,1989.0,train
+053,dataset/Audio/053.mp3,dataset/Lyrics/053.txt,,Confident,Cluster 1,I Hate You,Monks [2],Black Monk Time,1966.0,test
+054,dataset/Audio/054.mp3,dataset/Lyrics/054.txt,,Confident,Cluster 1,I'm a King Bee,"Harpo, Slim",Rainin' in My Heart,1961.0,train
+055,dataset/Audio/055.mp3,dataset/Lyrics/055.txt,dataset/MIDIs/055.mid,Confident,Cluster 1,I'm a Man,Spencer Davis Group,Best of the Spencer Davis Group [EMI America],1989.0,dev
+056,dataset/Audio/056.mp3,dataset/Lyrics/056.txt,,Confident,Cluster 1,Mannish Boy,"Waters, Muddy",Real Folk Blues,1965.0,train
+057,dataset/Audio/057.mp3,dataset/Lyrics/057.txt,,Confident,Cluster 1,Pour Some Sugar on Me,Def Leppard,Hysteria,1987.0,train
+058,dataset/Audio/058.mp3,dataset/Lyrics/058.txt,,Confident,Cluster 1,Pump It Up,Elvis Costello & the Attractions,Very Best of Elvis Costello and the Attractions,1994.0,test
+059,dataset/Audio/059.mp3,dataset/Lyrics/059.txt,dataset/MIDIs/059.mid,Confident,Cluster 1,Rebel Yell,"Idol, Billy",Rebel Yell [Expanded Edition],1999.0,train
+060,dataset/Audio/060.mp3,dataset/Lyrics/060.txt,,Confident,Cluster 1,Sister Havana,Urge Overkill,Saturation,1993.0,train
+061,dataset/Audio/061.mp3,dataset/Lyrics/061.txt,,Confident,Cluster 1,Sometimes Good Guys Don't Wear White,Standells,Best of the Standells,1984.0,train
+062,dataset/Audio/062.mp3,dataset/Lyrics/062.txt,,Confident,Cluster 1,Super Bad,"Brown, James [1]",JB40: 40th Anniversary Collection,1996.0,train
+063,dataset/Audio/063.mp3,dataset/Lyrics/063.txt,dataset/MIDIs/063.mid,Confident,Cluster 1,Survivor,Destiny's Child,Survivor,2001.0,train
+064,dataset/Audio/064.mp3,dataset/Lyrics/064.txt,dataset/MIDIs/064.mid,Confident,Cluster 1,Ten Feet Tall and Bulletproof,"Tritt, Travis",Greatest Hits: From the Beginning,1995.0,train
+065,dataset/Audio/065.mp3,,,Confident,Cluster 1,Greatest Lover in the World,"Diddley, Bo",Chess Box,1990.0,train
+066,dataset/Audio/066.mp3,dataset/Lyrics/066.txt,dataset/MIDIs/066.mid,Confident,Cluster 1,Walk This Way,Aerosmith,Aerosmith's Greatest Hits,1980.0,train
+067,dataset/Audio/067.mp3,dataset/Lyrics/067.txt,,Confident,Cluster 1,What Have You Done for Me Lately,"Jackson, Janet",Control,1986.0,train
+068,dataset/Audio/068.mp3,dataset/Lyrics/068.txt,,Confident,Cluster 1,Who's That Girl?,Eve [1],Scorpion,2001.0,dev
+069,dataset/Audio/069.mp3,dataset/Lyrics/069.txt,dataset/MIDIs/069.mid,Passionate,Cluster 1,(You Make Me Feel Like) A Natural Woman,"Franklin, Aretha",Lady Soul,1968.0,train
+070,dataset/Audio/070.mp3,,,Passionate,Cluster 1,63rd Street Theme,"Griffin, Johnny",Grab This!,1963.0,train
+071,dataset/Audio/071.mp3,dataset/Lyrics/071.txt,,Passionate,Cluster 1,Change Is Gonna Come,"Cooke, Sam",Man and His Music,1986.0,train
+072,dataset/Audio/072.mp3,dataset/Lyrics/072.txt,dataset/MIDIs/072.mid,Passionate,Cluster 1,Design for Life,Manic Street Preachers,Everything Must Go,1996.0,test
+073,dataset/Audio/073.mp3,dataset/Lyrics/073.txt,,Passionate,Cluster 1,"Another Place, Another Time","Lewis, Jerry Lee","All Killer, No Filler: The Anthology",1993.0,train
+074,dataset/Audio/074.mp3,dataset/Lyrics/074.txt,,Passionate,Cluster 1,Anyday,Derek & the Dominos,Layla and Other Assorted Love Songs,1970.0,train
+075,dataset/Audio/075.mp3,,,Passionate,Cluster 1,Bamboleo,Gipsy Kings,Gipsy Kings,1988.0,test
+076,dataset/Audio/076.mp3,,,Passionate,Cluster 1,Beck's Bolero,"Beck, Jeff",Truth,1968.0,train
+077,dataset/Audio/077.mp3,dataset/Lyrics/077.txt,,Passionate,Cluster 1,Born Under a Bad Sign,"King, Albert",Ultimate Collection,1993.0,dev
+078,dataset/Audio/078.mp3,dataset/Lyrics/078.txt,dataset/MIDIs/078.mid,Passionate,Cluster 1,Coal Miner's Daughter,"Lynn, Loretta",Coal Miner's Daughter,1971.0,train
+079,dataset/Audio/079.mp3,dataset/Lyrics/079.txt,,Passionate,Cluster 1,Cry Cry Cry,"Bland, Bobby","Greatest Hits, Vol. 1: The Duke Recordings",1998.0,train
+080,dataset/Audio/080.mp3,,,Passionate,Cluster 1,nan,nan,nan,nan,train
+081,dataset/Audio/081.mp3,dataset/Lyrics/081.txt,,Passionate,Cluster 1,Don't Stop 'Til You Get Enough,"Jackson, Michael [1]",Off the Wall,1979.0,train
+082,dataset/Audio/082.mp3,,,Passionate,Cluster 1,Geléia Geral,"Mercury, Daniela",Swing da Cor,1997.0,train
+083,dataset/Audio/083.mp3,,,Passionate,Cluster 1,Golden Gate Gospel Train,Golden Gate Quartet,"Jubilation, Vol. 1 (Black Gospel)",1992.0,train
+084,dataset/Audio/084.mp3,dataset/Lyrics/084.txt,,Passionate,Cluster 1,Good Rockin' Tonight,"Presley, Elvis",Artist of the Century,1999.0,dev
+085,dataset/Audio/085.mp3,dataset/Lyrics/085.txt,,Passionate,Cluster 1,Here I Am (Come and Take Me),"Green, Al",Al Green's Greatest Hits,1975.0,train
+086,dataset/Audio/086.mp3,dataset/Lyrics/086.txt,,Passionate,Cluster 1,"Hold on, I'm Comin'",Sam & Dave,"Hold On, I'm Comin'",1966.0,train
+087,dataset/Audio/087.mp3,dataset/Lyrics/087.txt,,Passionate,Cluster 1,Home in Your Heart,"Burke, Solomon",If You Need Me,1963.0,train
+088,dataset/Audio/088.mp3,dataset/Lyrics/088.txt,,Passionate,Cluster 1,I Have a Dream,"King, Martin Luther Jr.",In Search of Freedom,1968.0,test
+089,dataset/Audio/089.mp3,,,Passionate,Cluster 1,I Will Follow,U Two,Boy,1980.0,test
+090,dataset/Audio/090.mp3,dataset/Lyrics/090.txt,,Passionate,Cluster 1,I'm Ready,"Waters, Muddy",His Best: 1947 to 1955,1997.0,train
+091,dataset/Audio/091.mp3,dataset/Lyrics/091.txt,dataset/MIDIs/091.mid,Passionate,Cluster 1,Into the Mystic,"Morrison, Van",Moondance,1970.0,train
+092,dataset/Audio/092.mp3,dataset/Lyrics/092.txt,dataset/MIDIs/092.mid,Passionate,Cluster 1,London Calling,Clash,London Calling,1979.0,train
+093,dataset/Audio/093.mp3,,,Passionate,Cluster 1,Naima,"Coltrane, John",Giant Steps,1959.0,test
+094,dataset/Audio/094.mp3,,,Passionate,Cluster 1,Nothing Compares 2 U,"OConnor, Sinead",I Do Not Want What I Haven't Got,1990.0,train
+095,dataset/Audio/095.mp3,,,Passionate,Cluster 1,Piece of My Heart,"Joplin, Janis/Big Brother & the Holding Company",Cheap Thrills [Bonus Tracks],1999.0,train
+096,dataset/Audio/096.mp3,dataset/Lyrics/096.txt,,Passionate,Cluster 1,Rip It Up,Little Richard,Georgia Peach,1991.0,train
+097,dataset/Audio/097.mp3,dataset/Lyrics/097.txt,dataset/MIDIs/097.mid,Passionate,Cluster 1,Tell It Like It Is,"Neville, Aaron",Very Best of the Neville Brothers,1997.0,train
+098,dataset/Audio/098.mp3,dataset/Lyrics/098.txt,,Passionate,Cluster 1,Dark End of the Street,"Carr, James",Essential James Carr,1995.0,train
+099,dataset/Audio/099.mp3,dataset/Lyrics/099.txt,dataset/MIDIs/099.mid,Passionate,Cluster 1,Think,"Franklin, Aretha",Aretha Now,1968.0,train
+100,dataset/Audio/100.mp3,dataset/Lyrics/100.txt,,Passionate,Cluster 1,Try a Little Tenderness,"Redding, Otis","Very Best of Otis Redding, Vol. 1",1992.0,test
+101,dataset/Audio/101.mp3,dataset/Lyrics/101.txt,,Passionate,Cluster 1,Twist and Shout,Isley Brothers,Ultimate Isley Brothers,2000.0,dev
+102,dataset/Audio/102.mp3,,,Passionate,Cluster 1,Amor,Gipsy Kings,Gipsy Kings,1988.0,dev
+103,dataset/Audio/103.mp3,dataset/Lyrics/103.txt,,Passionate,Cluster 1,Waiting for the Great Leap Forwards,"Bragg, Billy",Workers Playtime,1988.0,test
+104,dataset/Audio/104.mp3,dataset/Lyrics/104.txt,,Passionate,Cluster 1,Westbound #9,Flaming Ember,"Soul Hits of the 70s: Didn't It Blow Your Mind!, Vol. 3",1991.0,test
+105,dataset/Audio/105.mp3,dataset/Lyrics/105.txt,,Passionate,Cluster 1,What'd I Say,"Charles, Ray [1]",Anthology,1989.0,train
+106,dataset/Audio/106.mp3,dataset/Lyrics/106.txt,,Passionate,Cluster 1,What's Going On,"Gaye, Marvin",What's Going On,1971.0,train
+107,dataset/Audio/107.mp3,,,Passionate,Cluster 1,When the Saints Go Marching In,"Bechet, Sidney",Best of Sidney Bechet [Blue Note],1994.0,test
+108,dataset/Audio/108.mp3,dataset/Lyrics/108.txt,dataset/MIDIs/108.mid,Passionate,Cluster 1,With a Little Help from My Friends,"Cocker, Joe",Anthology,1999.0,dev
+109,dataset/Audio/109.mp3,dataset/Lyrics/109.txt,,Rousing,Cluster 1,"(What's So Funny 'Bout) Peace, Love and Understanding?",Elvis Costello & the Attractions,Armed Forces [Ryko Bonus Tracks],1993.0,train
+110,dataset/Audio/110.mp3,dataset/Lyrics/110.txt,,Rousing,Cluster 1,American Girl,Tom Petty & the Heartbreakers,Tom Petty & the Heartbreakers,1976.0,train
+111,dataset/Audio/111.mp3,dataset/Lyrics/111.txt,dataset/MIDIs/111.mid,Rousing,Cluster 1,Born in the U.S.A.,"Springsteen, Bruce",Born in the U.S.A.,1984.0,train
+112,dataset/Audio/112.mp3,dataset/Lyrics/112.txt,,Rousing,Cluster 1,Can't Get Enough,Bad Company [1],Bad Company,1974.0,train
+113,dataset/Audio/113.mp3,dataset/Lyrics/113.txt,dataset/MIDIs/113.mid,Rousing,Cluster 1,Do You Wanna Touch Me? (Oh Yeah!),"Glitter, Gary",Rock and Roll: Gary Glitter's Greatest Hits,1998.0,dev
+114,dataset/Audio/114.mp3,dataset/Lyrics/114.txt,dataset/MIDIs/114.mid,Rousing,Cluster 1,Don't Bring Me Down,Electric Light Orchestra,Strange Magic: The Best of Electric Light Orchestra,1995.0,train
+115,dataset/Audio/115.mp3,dataset/Lyrics/115.txt,dataset/MIDIs/115.mid,Rousing,Cluster 1,Don't Stop Believin',Journey,Greatest Hits,1988.0,train
+116,dataset/Audio/116.mp3,dataset/Lyrics/116.txt,,Rousing,Cluster 1,"Fight the Power, Pt. 1",Isley Brothers,Ultimate Isley Brothers,2000.0,train
+117,dataset/Audio/117.mp3,dataset/Lyrics/117.txt,dataset/MIDIs/117.mid,Rousing,Cluster 1,Fortunate Son,Creedence Clearwater Revival,Willy and the Poor Boys,1969.0,test
+118,dataset/Audio/118.mp3,dataset/Lyrics/118.txt,,Rousing,Cluster 1,Garageland,Clash,Clash [US],1979.0,train
+119,dataset/Audio/119.mp3,dataset/Lyrics/119.txt,dataset/MIDIs/119.mid,Rousing,Cluster 1,Hotel Yorba,White Stripes,White Blood Cells,2001.0,train
+120,dataset/Audio/120.mp3,dataset/Lyrics/120.txt,dataset/MIDIs/120.mid,Rousing,Cluster 1,I Fought the Law,Bobby Fuller Four,Never to Be Forgotten: The Mustang Years,1998.0,train
+121,dataset/Audio/121.mp3,dataset/Lyrics/121.txt,dataset/MIDIs/121.mid,Rousing,Cluster 1,I Want You to Want Me,Cheap Trick,At Budokan,1979.0,train
+122,dataset/Audio/122.mp3,dataset/Lyrics/122.txt,,Rousing,Cluster 1,I Will Dare,Replacements,Let It Be,1984.0,test
+123,dataset/Audio/123.mp3,dataset/Lyrics/123.txt,,Rousing,Cluster 1,In a Big Country,Big Country,Crossing [Bonus Tracks],2002.0,dev
+124,dataset/Audio/124.mp3,dataset/Lyrics/124.txt,dataset/MIDIs/124.mid,Rousing,Cluster 1,Knock on Wood,"Floyd, Eddie",Atlantic Rhythm & Blues 1947-1974 [Box],1991.0,train
+125,dataset/Audio/125.mp3,dataset/Lyrics/125.txt,dataset/MIDIs/125.mid,Rousing,Cluster 1,Land of 1000 Dances,"Pickett, Wilson",Wilson Pickett's Greatest Hits [1985],1985.0,train
+126,dataset/Audio/126.mp3,dataset/Lyrics/126.txt,,Rousing,Cluster 1,Love Removal Machine,"Cult, The",Electric,1987.0,train
+127,dataset/Audio/127.mp3,dataset/Lyrics/127.txt,,Rousing,Cluster 1,Making Time,Creation,Our Music Is Red - With Purple Flashes,1998.0,dev
+128,dataset/Audio/128.mp3,dataset/Lyrics/128.txt,dataset/MIDIs/128.mid,Rousing,Cluster 1,Mickey,"Basil, Toni",Best of Toni Basil: Mickey & Other Love Songs,1994.0,train
+129,dataset/Audio/129.mp3,dataset/Lyrics/129.txt,dataset/MIDIs/129.mid,Rousing,Cluster 1,More Than a Feeling,Boston,Boston,1976.0,train
+130,dataset/Audio/130.mp3,,,Rousing,Cluster 1,New Day Rising,Husker Du,New Day Rising,1985.0,test
+131,dataset/Audio/131.mp3,dataset/Lyrics/131.txt,,Rousing,Cluster 1,One Way,Levellers,Levelling the Land,1992.0,test
+132,dataset/Audio/132.mp3,,,Rousing,Cluster 1,Pride (In the Name of Love),U Two,Unforgettable Fire,1984.0,dev
+133,dataset/Audio/133.mp3,dataset/Lyrics/133.txt,dataset/MIDIs/133.mid,Rousing,Cluster 1,Rescue Me,"Bass, Fontella",Rescued: The Best of Fontella Bass,1992.0,train
+134,dataset/Audio/134.mp3,dataset/Lyrics/134.txt,,Rousing,Cluster 1,"Rock & Roll, Pt. 2","Glitter, Gary",Rock and Roll: Gary Glitter's Greatest Hits,1998.0,train
+135,dataset/Audio/135.mp3,dataset/Lyrics/135.txt,,Rousing,Cluster 1,Rockin' Down the Highway,Doobie Brothers,Toulouse Street,1972.0,train
+136,dataset/Audio/136.mp3,,,Rousing,Cluster 1,Say It Loud (I'm Black and I'm Proud),"Brown, James [1]",Star Time,1991.0,train
+137,dataset/Audio/137.mp3,dataset/Lyrics/137.txt,,Rousing,Cluster 1,Boys Are Back in Town,Thin Lizzy,Jailbreak,1976.0,train
+138,dataset/Audio/138.mp3,dataset/Lyrics/138.txt,dataset/MIDIs/138.mid,Rousing,Cluster 1,We Will Rock You,Queen,Greatest Hits [Hollywood],1992.0,train
+139,dataset/Audio/139.mp3,dataset/Lyrics/139.txt,dataset/MIDIs/139.mid,Rousing,Cluster 1,We're an American Band,Grand Funk Railroad,Capitol Collectors Series,1991.0,train
+140,dataset/Audio/140.mp3,dataset/Lyrics/140.txt,,Rousing,Cluster 1,Welcome to the Terrordome,Public Enemy,Fear of a Black Planet,1990.0,train
+141,dataset/Audio/141.mp3,,,Rousing,Cluster 1,You Ain't Seen Nothing Yet,Bachman Turner Overdrive,Anthology,1993.0,dev
+142,dataset/Audio/142.mp3,dataset/Lyrics/142.txt,,Rowdy,Cluster 1,30 Days in the Hole,Humble Pie,"Classics, Vol. 14",1987.0,dev
+143,dataset/Audio/143.mp3,dataset/Lyrics/143.txt,,Rowdy,Cluster 1,All Kindsa Girls,Real Kids,Real Kids,1977.0,dev
+144,dataset/Audio/144.mp3,dataset/Lyrics/144.txt,,Rowdy,Cluster 1,Bad Reputation,"Jett, Joan & The Blackhearts",Fit to Be Tied: Great Hits by Joan Jett and the Blackhearts,1997.0,train
+145,dataset/Audio/145.mp3,dataset/Lyrics/145.txt,,Rowdy,Cluster 1,Bastards of Young,Replacements,Tim,1985.0,train
+146,dataset/Audio/146.mp3,,,Rowdy,Cluster 1,Blues' Theme,"Allan, Davie and the Arrows",Biker Rock,1993.0,train
+147,dataset/Audio/147.mp3,dataset/Lyrics/147.txt,,Rowdy,Cluster 1,Cherry Bomb,Runaways [1],Best of the Runaways,1987.0,train
+148,dataset/Audio/148.mp3,dataset/Lyrics/148.txt,dataset/MIDIs/148.mid,Rowdy,Cluster 1,Cowboy,Kid Rock,Devil Without a Cause,1998.0,train
+149,dataset/Audio/149.mp3,dataset/Lyrics/149.txt,,Rowdy,Cluster 1,Detroit Breakdown,"Geils, J. Band",Blow Your Face Out,1976.0,train
+150,dataset/Audio/150.mp3,dataset/Lyrics/150.txt,,Rowdy,Cluster 1,Fingernails,"Ely, Joe",Best of Joe Ely,2000.0,test
+151,dataset/Audio/151.mp3,,,Rowdy,Cluster 1,Get 'Em from the Peanut Man (The New Hot Nuts),"Johnson, Lil","1936-1937 ""Hottest Gal in Town""",1991.0,train
+152,dataset/Audio/152.mp3,dataset/Lyrics/152.txt,,Rowdy,Cluster 1,Get off of My Cloud,Rolling Stones,"Hot Rocks, 1964-1971",1972.0,test
+153,dataset/Audio/153.mp3,dataset/Lyrics/153.txt,,Rowdy,Cluster 1,Get Out of Denver,Bob Seger & The Silver Bullet Band,Live Bullet,1976.0,train
+154,dataset/Audio/154.mp3,dataset/Lyrics/154.txt,,Rowdy,Cluster 1,Good Rockin' Tonight,"Brown, Roy [1]",Good Rocking Tonight: The Best of Roy Brown,1994.0,train
+155,dataset/Audio/155.mp3,dataset/Lyrics/155.txt,,Rowdy,Cluster 1,Good Rockin' Tonight,"Harris, Wynonie",Bloodshot Eyes: The Best of Wynonie Harris,1993.0,train
+156,dataset/Audio/156.mp3,,,Rowdy,Cluster 1,Gospel 2000,Make Up,Sound Verite,1997.0,dev
+157,dataset/Audio/157.mp3,dataset/Lyrics/157.txt,dataset/MIDIs/157.mid,Rowdy,Cluster 1,Great Balls of Fire,"Lewis, Jerry Lee",18 Original Sun Greatest Hits,1984.0,train
+158,dataset/Audio/158.mp3,,,Rowdy,Cluster 1,Had Me a Real Good Time,"Faces/Stewart, Rod",Best of Faces: Good Boys When They're Asleep,1999.0,train
+159,dataset/Audio/159.mp3,dataset/Lyrics/159.txt,,Rowdy,Cluster 1,I Just Want to Make Love to You,"Waters, Muddy",His Best: 1947 to 1955,1997.0,train
+160,dataset/Audio/160.mp3,dataset/Lyrics/160.txt,,Rowdy,Cluster 1,Jenny Take a Ride!,Mitch Ryder & the Detroit Wheels,Rev-Up: The Best of Mitch Ryder & the Detroit Wheels [Rhino],1990.0,train
+161,dataset/Audio/161.mp3,,,Rowdy,Cluster 1,Misirlou,Dick Dale & the Del-Tones,King of the Surf Guitar: The Best of Dick Dale,1989.0,test
+162,dataset/Audio/162.mp3,dataset/Lyrics/162.txt,,Rowdy,Cluster 1,Party Machine,Hoodoo Gurus,Blow Your Cool!,1987.0,train
+163,dataset/Audio/163.mp3,,,Rowdy,Cluster 1,Rumble,"Wray, Link",Rumble! The Best of Link Wray,1993.0,train
+164,dataset/Audio/164.mp3,dataset/Lyrics/164.txt,dataset/MIDIs/164.mid,Rowdy,Cluster 1,Smokin' in the Boy's Room,Brownsville Station,Smokin' in the Boy's Room: The Best of Brownsville Station,1993.0,train
+165,dataset/Audio/165.mp3,dataset/Lyrics/165.txt,,Rowdy,Cluster 1,Step On,Happy Mondays,Pills 'n' Thrills and Bellyaches,1990.0,test
+166,dataset/Audio/166.mp3,,dataset/MIDIs/166.mid,Rowdy,Cluster 1,Takin' Care of Business,Bachman Turner Overdrive,Anthology,1993.0,train
+167,dataset/Audio/167.mp3,dataset/Lyrics/167.txt,,Rowdy,Cluster 1,Boys Are Back in Town,Thin Lizzy,Dedication: The Very Best of Thin Lizzy,1991.0,train
+168,dataset/Audio/168.mp3,,,Rowdy,Cluster 1,Train Kept A Rollin',"Burnette, Johnny",Rock 'n' Roll Trio/Tear It Up,1996.0,train
+169,dataset/Audio/169.mp3,dataset/Lyrics/169.txt,,Rowdy,Cluster 1,Touch Me I'm Sick,Mudhoney,March to Fuzz,2000.0,train
+170,dataset/Audio/170.mp3,dataset/Lyrics/170.txt,,Rowdy,Cluster 1,White Lightning,"Jones, George [1]",Best of George Jones (1955-1967),1991.0,test
+171,dataset/Audio/171.mp3,dataset/Lyrics/171.txt,,Amiable-good natured,Cluster 2,Roll with It,"Winwood, Steve",Roll with It,1988.0,dev
+172,dataset/Audio/172.mp3,,,Amiable-good natured,Cluster 2,"Up, Up and Away",Fifth Dimension [1],Up Up and Away: The Definitive Collection,1997.0,dev
+173,dataset/Audio/173.mp3,dataset/Lyrics/173.txt,,Amiable-good natured,Cluster 2,Did You Ever Have to Make up Your Mind?,Lovin' Spoonful,"Sunshine Days, Vol. 3: 60's Pop Classics",1997.0,test
+174,dataset/Audio/174.mp3,dataset/Lyrics/174.txt,,Amiable-good natured,Cluster 2,Skinny Jim,"Cochran, Eddie",Somethin' Else: The Fine Lookin' Hits of Eddie Cochran,1998.0,dev
+175,dataset/Audio/175.mp3,dataset/Lyrics/175.txt,dataset/MIDIs/175.mid,Amiable-good natured,Cluster 2,Boy from New York City,Manhattan Transfer,Mecca for Moderns,1981.0,train
+176,dataset/Audio/176.mp3,,,Amiable-good natured,Cluster 2,Back at the Chicken Shack,"Smith, Jimmy [1]",Back at the Chicken Shack,1960.0,train
+177,dataset/Audio/177.mp3,dataset/Lyrics/177.txt,dataset/MIDIs/177.mid,Amiable-good natured,Cluster 2,Hey! Baby,"Channel, Bruce",Hey! Baby [Collectables],1995.0,train
+178,dataset/Audio/178.mp3,dataset/Lyrics/178.txt,,Amiable-good natured,Cluster 2,Give Me the Simple Life,"Christy, June",Gone for the Day/Fair and Warmer!,1957.0,dev
+179,dataset/Audio/179.mp3,dataset/Lyrics/179.txt,,Amiable-good natured,Cluster 2,I Left My Wallet in el Segundo,Tribe Called Quest,People's Instinctive Travels and the Paths of Rhythm,1990.0,dev
+180,dataset/Audio/180.mp3,dataset/Lyrics/180.txt,dataset/MIDIs/180.mid,Amiable-good natured,Cluster 2,Show Me the Way,"Frampton, Peter",Frampton Comes Alive!,1976.0,dev
+181,dataset/Audio/181.mp3,dataset/Lyrics/181.txt,,Amiable-good natured,Cluster 2,New San Antonio Rose,"Wills, Bob & His Texas Playboys",Anthology 1935-1973,1991.0,train
+182,dataset/Audio/182.mp3,dataset/Lyrics/182.txt,,Amiable-good natured,Cluster 2,Sunshine Superman,Donovan [1],Troubadour: The Definitive Collection 1964-1976,1992.0,train
+183,dataset/Audio/183.mp3,dataset/Lyrics/183.txt,dataset/MIDIs/183.mid,Amiable-good natured,Cluster 2,Surfin' U.S.A.,Beach Boys,"Greatest Hits, Vol. 1",1999.0,train
+184,dataset/Audio/184.mp3,,,Amiable-good natured,Cluster 2,Joy Spring,"Brown, Clifford [Jazz]",Clifford Brown & Max Roach,1954.0,train
+185,dataset/Audio/185.mp3,,,Amiable-good natured,Cluster 2,Ac-Cent-Tchu-Ate the Positive,"Andrews Sisters/Crosby, Bing/Vic Schoen & His Orchestra",20th Century Masters - The Millennium Collection: The Best of the Andrews Sisters,2000.0,train
+186,dataset/Audio/186.mp3,dataset/Lyrics/186.txt,dataset/MIDIs/186.mid,Amiable-good natured,Cluster 2,Sweet Little Sixteen,"Berry, Chuck",Anthology,2000.0,train
+187,dataset/Audio/187.mp3,,,Amiable-good natured,Cluster 2,Salt Peanuts,"Gillespie, Dizzy And His Sextets",Shaw Nuff,1993.0,dev
+188,dataset/Audio/188.mp3,dataset/Lyrics/188.txt,,Amiable-good natured,Cluster 2,Come On-A My House,"Clooney, Rosemary",16 Biggest Hits,2000.0,train
+189,dataset/Audio/189.mp3,dataset/Lyrics/189.txt,dataset/MIDIs/189.mid,Amiable-good natured,Cluster 2,King of the Road,"Miller, Roger",20th Century Masters - The Millennium Collection: The Best of Roger Miller,1999.0,train
+190,dataset/Audio/190.mp3,dataset/Lyrics/190.txt,,Amiable-good natured,Cluster 2,Your Smiling Face,"Taylor, James [1]","Greatest Hits, Vol. 2",2000.0,train
+191,dataset/Audio/191.mp3,dataset/Lyrics/191.txt,,Amiable-good natured,Cluster 2,Silly Love Songs,"McCartney, Paul/Wings",Wingspan: Hits and History,2001.0,train
+192,dataset/Audio/192.mp3,dataset/Lyrics/192.txt,,Amiable-good natured,Cluster 2,Give Him a Great Big Kiss,Shangri-Las,Myrmidons of Melodrama [RPM 136],1994.0,train
+193,dataset/Audio/193.mp3,dataset/Lyrics/193.txt,,Amiable-good natured,Cluster 2,Creeque Alley,Mamas & Papas,All the Leaves Are Brown: The Golden Era Collection,2001.0,dev
+194,dataset/Audio/194.mp3,dataset/Lyrics/194.txt,dataset/MIDIs/194.mid,Amiable-good natured,Cluster 2,Blueberry Hill,"Domino, Fats",Walking to New Orleans [Box],2002.0,train
+195,dataset/Audio/195.mp3,dataset/Lyrics/195.txt,,Amiable-good natured,Cluster 2,Ventura Highway,America [1],Ventura Highway & Other Favorites,1992.0,train
+196,dataset/Audio/196.mp3,dataset/Lyrics/196.txt,,Amiable-good natured,Cluster 2,Sally Was a Good Old Girl,"Owens, Buck",On the Bandstand,1963.0,train
+197,dataset/Audio/197.mp3,dataset/Lyrics/197.txt,dataset/MIDIs/197.mid,Amiable-good natured,Cluster 2,Wake Me Up Before You Go-Go,Wham!,Make It Big,1984.0,test
+198,dataset/Audio/198.mp3,dataset/Lyrics/198.txt,dataset/MIDIs/198.mid,Amiable-good natured,Cluster 2,Red Rubber Ball,Cyrkle,Pop Classics of the 60s,1989.0,test
+199,dataset/Audio/199.mp3,dataset/Lyrics/199.txt,,Amiable-good natured,Cluster 2,Mistadobalina,Del Tha Funkee Homosapien,I Wish My Brother George Was Here,1991.0,train
+200,dataset/Audio/200.mp3,dataset/Lyrics/200.txt,,Amiable-good natured,Cluster 2,Ruby Baby,Dion,Bronx Blues: The Columbia Recordings,1991.0,test
+201,dataset/Audio/201.mp3,dataset/Lyrics/201.txt,,Amiable-good natured,Cluster 2,Soul Man,Sam & Dave,Very Best of Sam & Dave,1995.0,train
+202,dataset/Audio/202.mp3,dataset/Lyrics/202.txt,,Amiable-good natured,Cluster 2,Mamas Don't Let Your Babies Grow up to Be Cowboys,"Nelson, Willie/Jennings, Waylon",Greatest Hits [RCA],1979.0,train
+203,dataset/Audio/203.mp3,dataset/Lyrics/203.txt,,Amiable-good natured,Cluster 2,It's Only a Paper Moon,"Cole, Nat King","Best of the Nat King Cole Trio: The Vocal Classics, Vol. 1 (1942-1946)",1995.0,train
+204,dataset/Audio/204.mp3,dataset/Lyrics/204.txt,,Amiable-good natured,Cluster 2,Backfield in Motion,Mel & Tim,Good Guys Only Win in the Movies,1969.0,train
+205,dataset/Audio/205.mp3,dataset/Lyrics/205.txt,dataset/MIDIs/205.mid,Amiable-good natured,Cluster 2,Thank You for Being a Friend,"Gold, Andrew",Thank You for Being a Friend: The Best of Andrew Gold,1997.0,train
+206,dataset/Audio/206.mp3,,,Cheerful,Cluster 2,C Is the Heavenly Option,Heavenly [1],Jardin de Heavenly,1992.0,train
+207,dataset/Audio/207.mp3,,,Cheerful,Cluster 2,nan,nan,nan,nan,dev
+208,dataset/Audio/208.mp3,dataset/Lyrics/208.txt,,Cheerful,Cluster 2,Crickets Sing for Anamaria,"Valle, Marcos",Samba '68,1968.0,train
+209,dataset/Audio/209.mp3,dataset/Lyrics/209.txt,dataset/MIDIs/209.mid,Cheerful,Cluster 2,Happy Together,Turtles,20 Greatest Hits,1983.0,train
+210,dataset/Audio/210.mp3,dataset/Lyrics/210.txt,,Cheerful,Cluster 2,Magic Number,De La Soul,3 Feet High and Rising,1989.0,train
+211,dataset/Audio/211.mp3,dataset/Lyrics/211.txt,,Cheerful,Cluster 2,Wake Up Little Susie,Everly Brothers,Cadence Classics: Their 20 Greatest Hits,1986.0,train
+212,dataset/Audio/212.mp3,dataset/Lyrics/212.txt,dataset/MIDIs/212.mid,Cheerful,Cluster 2,Escapade,"Jackson, Janet",Rhythm Nation 1814,1989.0,train
+213,dataset/Audio/213.mp3,dataset/Lyrics/213.txt,,Cheerful,Cluster 2,Give Him the Ooh-La-La,"Dearie, Blossom",Give Him the Ooh-La-La,1958.0,train
+214,dataset/Audio/214.mp3,dataset/Lyrics/214.txt,,Cheerful,Cluster 2,Heart of Rock & Roll,Huey Lewis & the News,Sports [Expanded Edition],1999.0,test
+215,dataset/Audio/215.mp3,dataset/Lyrics/215.txt,,Cheerful,Cluster 2,I Can Hear Music,Beach Boys,"Greatest Hits, Vol. 2",1999.0,train
+216,dataset/Audio/216.mp3,dataset/Lyrics/216.txt,dataset/MIDIs/216.mid,Cheerful,Cluster 2,Friday on My Mind,Easybeats,Gonna Have a Good Time,1999.0,train
+217,dataset/Audio/217.mp3,dataset/Lyrics/217.txt,,Cheerful,Cluster 2,"Hello, Dolly!","Darin, Bobby",Capitol Years,1999.0,train
+218,dataset/Audio/218.mp3,dataset/Lyrics/218.txt,dataset/MIDIs/218.mid,Cheerful,Cluster 2,Forever Your Girl,"Abdul, Paula",Greatest Hits,2000.0,dev
+219,dataset/Audio/219.mp3,,,Cheerful,Cluster 2,We Got the Beat,Go Go's [1],Beauty and the Beat,1981.0,train
+220,dataset/Audio/220.mp3,dataset/Lyrics/220.txt,,Cheerful,Cluster 2,I Should Be So Lucky,"Minogue, Kylie",Greatest Hits [1994],1994.0,train
+221,dataset/Audio/221.mp3,,,Cheerful,Cluster 2,Rise and Shine,"Cardigans/Lindgård, Petter",Life,1995.0,test
+222,dataset/Audio/222.mp3,dataset/Lyrics/222.txt,,Cheerful,Cluster 2,"A-Tisket, A-Tasket","Fitzgerald, Ella",Ken Burns Jazz,2000.0,train
+223,dataset/Audio/223.mp3,dataset/Lyrics/223.txt,,Cheerful,Cluster 2,Happy Birthday,Altered Images,I Could Be Happy: The Best of Altered Images,1997.0,train
+224,dataset/Audio/224.mp3,dataset/Lyrics/224.txt,,Cheerful,Cluster 2,"Rain, the Park & Other Things",Cowsills,20th Century Masters - The Millennium Collection: The Best of the Cowsills,2001.0,train
+225,dataset/Audio/225.mp3,dataset/Lyrics/225.txt,,Cheerful,Cluster 2,Kites Are Fun,Free Design,Best of Free Design,2001.0,dev
+226,dataset/Audio/226.mp3,,,Cheerful,Cluster 2,Babalu,"Arnaz, Desi & His Orchestra",Babalu [RCA],1996.0,train
+227,dataset/Audio/227.mp3,,,Cheerful,Cluster 2,Head over Heels,Go Go's [1],Return to the Valley of the Go-Go's,1994.0,train
+228,dataset/Audio/228.mp3,dataset/Lyrics/228.txt,dataset/MIDIs/228.mid,Cheerful,Cluster 2,"Cherry, Cherry","Diamond, Neil",Classics: The Early Years,1983.0,train
+229,dataset/Audio/229.mp3,,,Cheerful,Cluster 2,Come On-A My House,"Clooney, Rosemary/Freeman, Stan/Lowe, Mundell/Crawford, Jimmy/Carroll, Frank","Cocktail Mix, Vol. 3: Swingin' Singles",1996.0,test
+230,dataset/Audio/230.mp3,dataset/Lyrics/230.txt,,Cheerful,Cluster 2,Ain't That a Kick in the Head,"Martin, Dean",Capitol Collectors Series,1989.0,train
+231,dataset/Audio/231.mp3,dataset/Lyrics/231.txt,dataset/MIDIs/231.mid,Cheerful,Cluster 2,Baby Baby,"Grant, Amy",Heart in Motion,1991.0,train
+232,dataset/Audio/232.mp3,dataset/Lyrics/232.txt,,Cheerful,Cluster 2,Candy Girl,New Edition [US],"Greatest Hits, Vol. 1",1991.0,test
+233,dataset/Audio/233.mp3,dataset/Lyrics/233.txt,dataset/MIDIs/233.mid,Cheerful,Cluster 2,Here You Come Again,"Parton, Dolly","Essential Dolly Parton, Vol. 2",1997.0,dev
+234,dataset/Audio/234.mp3,dataset/Lyrics/234.txt,,Cheerful,Cluster 2,Very Stylish Fille,Dimitri from Paris,Sacrebleu,1996.0,train
+235,dataset/Audio/235.mp3,dataset/Lyrics/235.txt,dataset/MIDIs/235.mid,Cheerful,Cluster 2,Don't Turn Around,Ace Of Base,Sign,1993.0,dev
+236,dataset/Audio/236.mp3,dataset/Lyrics/236.txt,,Cheerful,Cluster 2,Everybody Loves the Sunshine,"Ayers, Roy",Evolution: The Polydor Anthology,1995.0,train
+237,dataset/Audio/237.mp3,,,Cheerful,Cluster 2,Baby Pop,"Gall, France",Baby Pop,1966.0,train
+238,dataset/Audio/238.mp3,dataset/Lyrics/238.txt,,Fun,Cluster 2,Minnie the Moocher,"Calloway, Cab",Are You Hep to the Jive?,1935.0,train
+239,dataset/Audio/239.mp3,dataset/Lyrics/239.txt,,Fun,Cluster 2,See See Rider,"Baker, Lavern",Soul on Fire: The Best of LaVern Baker,1991.0,train
+240,dataset/Audio/240.mp3,dataset/Lyrics/240.txt,dataset/MIDIs/240.mid,Fun,Cluster 2,"Oh, Boy!","Holly, Buddy",Buddy Holly Collection,1993.0,train
+241,dataset/Audio/241.mp3,dataset/Lyrics/241.txt,,Fun,Cluster 2,Soul Man,Blues Brothers,Definitive Collection,1992.0,train
+242,dataset/Audio/242.mp3,dataset/Lyrics/242.txt,,Fun,Cluster 2,Palisades Park,"Cannon, Freddy ""Boom-Boom""","Best of Freddy ""Boom Boom"" Cannon [Rhino]",1995.0,train
+243,dataset/Audio/243.mp3,dataset/Lyrics/243.txt,,Fun,Cluster 2,"Let's Go, Let's Go, Let's Go",Hank Ballard & the Midnighters,Sexy Ways: The Best of Hank Ballard & the Midnighters,1993.0,train
+244,dataset/Audio/244.mp3,dataset/Lyrics/244.txt,,Fun,Cluster 2,No Sugar Tonight/New Mother Nature,Guess Who [1],Greatest Hits [RCA],1999.0,train
+245,dataset/Audio/245.mp3,dataset/Lyrics/245.txt,,Fun,Cluster 2,I Fought the Law,"Fuller, Bobby Four",Hot Rod Box Set,1999.0,test
+246,dataset/Audio/246.mp3,dataset/Lyrics/246.txt,dataset/MIDIs/246.mid,Fun,Cluster 2,Dancing Queen,Abba,Gold: Greatest Hits,1993.0,train
+247,dataset/Audio/247.mp3,dataset/Lyrics/247.txt,,Fun,Cluster 2,Let's Go Crazy,Prince & The Revolution,Purple Rain,1984.0,dev
+248,dataset/Audio/248.mp3,dataset/Lyrics/248.txt,dataset/MIDIs/248.mid,Fun,Cluster 2,Holiday,Madonna,Madonna,1983.0,train
+249,dataset/Audio/249.mp3,dataset/Lyrics/249.txt,,Fun,Cluster 2,Searchin',Coasters,50 Coastin' Classics: Anthology,1992.0,train
+250,dataset/Audio/250.mp3,dataset/Lyrics/250.txt,dataset/MIDIs/250.mid,Fun,Cluster 2,Summer in the City,Lovin' Spoonful,Greatest Hits [Buddha],2000.0,train
+251,dataset/Audio/251.mp3,dataset/Lyrics/251.txt,dataset/MIDIs/251.mid,Fun,Cluster 2,Good Times,Chic,Very Best of Chic,2000.0,dev
+252,dataset/Audio/252.mp3,,dataset/MIDIs/252.mid,Fun,Cluster 2,Oops! ... I Did It Again,"Spears, Britney",Oops!...I Did It Again,2000.0,train
+253,dataset/Audio/253.mp3,dataset/Lyrics/253.txt,dataset/MIDIs/253.mid,Fun,Cluster 2,Rock & Roll Music,"Berry, Chuck",Anthology,2000.0,train
+254,dataset/Audio/254.mp3,dataset/Lyrics/254.txt,,Fun,Cluster 2,Alright,Supergrass,I Should Coco,1995.0,test
+255,dataset/Audio/255.mp3,dataset/Lyrics/255.txt,,Fun,Cluster 2,Save It for Later,English Beat,Special Beat Service,1982.0,train
+256,dataset/Audio/256.mp3,dataset/Lyrics/256.txt,,Fun,Cluster 2,Bust a Move,Young Mc,Stone Cold Rhymin',1989.0,dev
+257,dataset/Audio/257.mp3,dataset/Lyrics/257.txt,,Fun,Cluster 2,Beach Baby,"Burrows, Tony","Rock Dreams, Vol. 2 [Eclipse Music Group]",1996.0,dev
+258,dataset/Audio/258.mp3,dataset/Lyrics/258.txt,,Fun,Cluster 2,Good Lovin',Young Rascals,Young Rascals,1966.0,dev
+259,dataset/Audio/259.mp3,dataset/Lyrics/259.txt,,Fun,Cluster 2,Express Yourself,Charles Wright & The Watts 103rd Street Rhythm Band,"In the Jungle, Babe/Express Yourself",1997.0,train
+260,dataset/Audio/260.mp3,dataset/Lyrics/260.txt,,Fun,Cluster 2,Since I Left You,Avalanches [2],Since I Left You,2000.0,train
+261,dataset/Audio/261.mp3,dataset/Lyrics/261.txt,,Fun,Cluster 2,Let the Good Times Roll,"Jordan, Louis [1]",Best of Louis Jordan [MCA],1977.0,train
+262,dataset/Audio/262.mp3,dataset/Lyrics/262.txt,,Fun,Cluster 2,Margaritaville,"Buffett, Jimmy",Songs You Know by Heart: Jimmy Buffett's Greatest Hit(s),1985.0,test
+263,dataset/Audio/263.mp3,,,Fun,Cluster 2,Flat Foot Floogie,Slim & Slam,Groove Juice Special,1938.0,train
+264,dataset/Audio/264.mp3,dataset/Lyrics/264.txt,,Fun,Cluster 2,Double Shot (Of My Baby's Love),Swingin' Medallions,Anthology,1997.0,train
+265,dataset/Audio/265.mp3,,,Fun,Cluster 2,I Got Rhythm,Quintet Of The Hot Club Of France,Swing from Paris [ASV/Living Era],1935.0,train
+266,dataset/Audio/266.mp3,dataset/Lyrics/266.txt,dataset/MIDIs/266.mid,Fun,Cluster 2,Somethin' Else,"Cochran, Eddie",Somethin' Else: The Fine Lookin' Hits of Eddie Cochran,1998.0,test
+267,dataset/Audio/267.mp3,dataset/Lyrics/267.txt,,Rollicking,Cluster 2,Fat Man,"Domino, Fats",Fat Man: 25 Classic Performances,1996.0,dev
+268,dataset/Audio/268.mp3,dataset/Lyrics/268.txt,dataset/MIDIs/268.mid,Rollicking,Cluster 2,Hang Onto Yourself,"Bowie, David",Ziggy Stardust [Bonus Tracks],1990.0,train
+269,dataset/Audio/269.mp3,dataset/Lyrics/269.txt,,Rollicking,Cluster 2,Sea Cruise,"Ford, Frankie",Sea Cruise: The Very Best of Frankie Ford,1998.0,train
+270,dataset/Audio/270.mp3,dataset/Lyrics/270.txt,,Rollicking,Cluster 2,Finger Poppin' Time,Hank Ballard & the Midnighters,Sexy Ways: The Best of Hank Ballard & the Midnighters,1993.0,train
+271,dataset/Audio/271.mp3,,,Rollicking,Cluster 2,Why Baby Why,"Jones, George [1]",Best of George Jones (1955-1967),1991.0,train
+272,dataset/Audio/272.mp3,,dataset/MIDIs/272.mid,Rollicking,Cluster 2,Rebel Rouser,"Eddy, Duane",Twang Thang: Anthology,1993.0,train
+273,dataset/Audio/273.mp3,dataset/Lyrics/273.txt,dataset/MIDIs/273.mid,Rollicking,Cluster 2,I'm Movin' On,"Snow, Hank",Essential Hank Snow,1997.0,test
+274,dataset/Audio/274.mp3,dataset/Lyrics/274.txt,,Rollicking,Cluster 2,Have You Seen My Baby?,"Newman, Randy",12 Songs,1970.0,train
+275,dataset/Audio/275.mp3,dataset/Lyrics/275.txt,,Rollicking,Cluster 2,Claudette,Everly Brothers,Cadence Classics: Their 20 Greatest Hits,1986.0,train
+276,dataset/Audio/276.mp3,dataset/Lyrics/276.txt,,Rollicking,Cluster 2,Hate to Lose Your Lovin',Little Feat,Let It Roll,1988.0,train
+277,dataset/Audio/277.mp3,dataset/Lyrics/277.txt,dataset/MIDIs/277.mid,Rollicking,Cluster 2,Truckin',Grateful Dead,American Beauty,1970.0,train
+278,dataset/Audio/278.mp3,,,Rollicking,Cluster 2,Get Rhythm,"Cash, Johnny & the Tennessee Two",Complete Original Sun Singles,1999.0,test
+279,dataset/Audio/279.mp3,dataset/Lyrics/279.txt,,Rollicking,Cluster 2,Ride Your Pony,"Dorsey, Lee",Wheelin' and Dealin': The Definitive Collection,1997.0,dev
+280,dataset/Audio/280.mp3,dataset/Lyrics/280.txt,,Rollicking,Cluster 2,Kansas City,"Harrison, Wilbert","Golden Age of American Rock 'n' Roll, Vol. 3",1994.0,train
+281,dataset/Audio/281.mp3,dataset/Lyrics/281.txt,,Rollicking,Cluster 2,Lazy Days,Flying Burrito Brothers,Hot Burritos! The Flying Burrito Brothers Anthology 1969-1972,2000.0,train
+282,dataset/Audio/282.mp3,dataset/Lyrics/282.txt,,Rollicking,Cluster 2,Break My Mind,Flying Burrito Brothers,Hot Burritos! The Flying Burrito Brothers Anthology 1969-1972,2000.0,train
+283,dataset/Audio/283.mp3,dataset/Lyrics/283.txt,,Rollicking,Cluster 2,Desdemona,"Bolan, Marc",Words & Music,1978.0,test
+284,dataset/Audio/284.mp3,dataset/Lyrics/284.txt,,Rollicking,Cluster 2,Hey Porter,"Cash, Johnny",Man in Black: 1954-1958,1990.0,train
+285,dataset/Audio/285.mp3,dataset/Lyrics/285.txt,dataset/MIDIs/285.mid,Rollicking,Cluster 2,No Particular Place to Go,"Berry, Chuck",Anthology,2000.0,train
+286,dataset/Audio/286.mp3,dataset/Lyrics/286.txt,dataset/MIDIs/286.mid,Rollicking,Cluster 2,Down on the Corner,Creedence Clearwater Revival,Willy and the Poor Boys,1969.0,test
+287,dataset/Audio/287.mp3,,,Rollicking,Cluster 2,Working in the Coal Mine,"Dorsey, Lee",Wheelin' and Dealin': The Definitive Collection,1997.0,train
+288,dataset/Audio/288.mp3,dataset/Lyrics/288.txt,dataset/MIDIs/288.mid,Rollicking,Cluster 2,Dust My Broom,"James, Elmore",Sky Is Crying: The History of Elmore James,1993.0,test
+289,dataset/Audio/289.mp3,dataset/Lyrics/289.txt,,Rollicking,Cluster 2,Happy Hour,Housemartins,Now That's What I Call Quite Good!,1988.0,train
+290,dataset/Audio/290.mp3,dataset/Lyrics/290.txt,,Rollicking,Cluster 2,She's About a Mover,Sir Douglas Quintet,Nuggets: Original Artyfacts from the First Psychedelic Era 1965-1968 [Box],1998.0,train
+291,dataset/Audio/291.mp3,,,Rollicking,Cluster 2,Come on Eileen,"Rowland, Kevin & Dexys Midnight Runners",Too-Rye-Ay [US Bonus Tracks],2002.0,test
+292,dataset/Audio/292.mp3,dataset/Lyrics/292.txt,,Rollicking,Cluster 2,Choo Choo Ch'Boogie,"Jordan, Louis [1]",Best of Louis Jordan [MCA],1977.0,train
+293,dataset/Audio/293.mp3,dataset/Lyrics/293.txt,,Rollicking,Cluster 2,Opening: I Can't Turn You Loose,Blues Brothers,Briefcase Full of Blues,1978.0,train
+294,dataset/Audio/294.mp3,,,Rollicking,Cluster 2,Comin' Home,Delaney & Bonnie & Friends,On Tour with Eric Clapton,1970.0,dev
+295,dataset/Audio/295.mp3,dataset/Lyrics/295.txt,dataset/MIDIs/295.mid,Rollicking,Cluster 2,Viva Las Vegas,"Presley, Elvis","Elvis' Gold Records, Vol. 4 [Bonus Tracks]",1968.0,train
+296,dataset/Audio/296.mp3,dataset/Lyrics/296.txt,dataset/MIDIs/296.mid,Rollicking,Cluster 2,Going Up the Country,Canned Heat,Best of Canned Heat [EMI],1972.0,train
+297,dataset/Audio/297.mp3,,,Rollicking,Cluster 2,Every Day I Have the Blues,"King, B.B.",Live at the Regal,1965.0,train
+298,dataset/Audio/298.mp3,dataset/Lyrics/298.txt,dataset/MIDIs/298.mid,Rollicking,Cluster 2,C'mon Everybody,"Cochran, Eddie",Somethin' Else: The Fine Lookin' Hits of Eddie Cochran,1998.0,test
+299,dataset/Audio/299.mp3,dataset/Lyrics/299.txt,,Rollicking,Cluster 2,Now We're Getting Somewhere,Crowded House,Crowded House,1986.0,test
+300,dataset/Audio/300.mp3,dataset/Lyrics/300.txt,,Sweet,Cluster 2,I'm Sensitive,Jewel [1],Pieces of You,1995.0,train
+301,dataset/Audio/301.mp3,dataset/Lyrics/301.txt,dataset/MIDIs/301.mid,Sweet,Cluster 2,To Sir with Love,Lulu,From Crayons to Perfume: The Best of Lulu,1994.0,dev
+302,dataset/Audio/302.mp3,dataset/Lyrics/302.txt,,Sweet,Cluster 2,Love Takes Time,Orleans,Dance with Me: The Best of Orleans,2005.0,train
+303,dataset/Audio/303.mp3,dataset/Lyrics/303.txt,,Sweet,Cluster 2,Gentle on My Mind,"Campbell, Glen [1]",Glen Campbell Collection (1962-1989): Gentle on My Mind,1997.0,train
+304,dataset/Audio/304.mp3,dataset/Lyrics/304.txt,,Sweet,Cluster 2,Don't Sleep in the Subway,"Clark, Petula",Greatest Hits of Petula Clark,1986.0,test
+305,dataset/Audio/305.mp3,dataset/Lyrics/305.txt,,Sweet,Cluster 2,Nobody,Sylvia [Country],Anthology,1997.0,train
+306,dataset/Audio/306.mp3,dataset/Lyrics/306.txt,,Sweet,Cluster 2,Beechwood 4-5789,Marvelettes,Ultimate Collection,1998.0,train
+307,dataset/Audio/307.mp3,dataset/Lyrics/307.txt,dataset/MIDIs/307.mid,Sweet,Cluster 2,Kiss Me,Sixpence None the Richer,Sixpence None the Richer,1997.0,test
+308,dataset/Audio/308.mp3,dataset/Lyrics/308.txt,,Sweet,Cluster 2,Lights Are Changing,"Lord, Mary Lou",Got No Shadow,1998.0,train
+309,dataset/Audio/309.mp3,dataset/Lyrics/309.txt,dataset/MIDIs/309.mid,Sweet,Cluster 2,Daydream Believer,Monkees,"Birds, the Bees & the Monkees",1968.0,dev
+310,dataset/Audio/310.mp3,dataset/Lyrics/310.txt,,Sweet,Cluster 2,Baby Love,"Ross, Diana & the Supremes",Ultimate Collection,1997.0,dev
+311,dataset/Audio/311.mp3,dataset/Lyrics/311.txt,,Sweet,Cluster 2,O-o-h Child,Five Stairsteps,Encore Collection: Their Greatest Hits,1998.0,train
+312,dataset/Audio/312.mp3,,,Sweet,Cluster 2,Como un Duende,Dandy's,Frutas del Caney,1999.0,train
+313,dataset/Audio/313.mp3,dataset/Lyrics/313.txt,dataset/MIDIs/313.mid,Sweet,Cluster 2,We've Only Just Begun,Carpenters,Singles 1969-1973,1973.0,train
+314,dataset/Audio/314.mp3,dataset/Lyrics/314.txt,,Sweet,Cluster 2,Oh Girl,Chi-Lites,Crooklyn,1995.0,train
+315,dataset/Audio/315.mp3,dataset/Lyrics/315.txt,,Sweet,Cluster 2,Shake Your Love,"Gibson, Debbie",Greatest Hits,1996.0,train
+316,dataset/Audio/316.mp3,dataset/Lyrics/316.txt,dataset/MIDIs/316.mid,Sweet,Cluster 2,Sunshine on My Shoulders,"Denver, John",Greatest Hits,1973.0,test
+317,dataset/Audio/317.mp3,dataset/Lyrics/317.txt,,Sweet,Cluster 2,Solid,Ashford & Simpson,Capitol Gold: The Best of Ashford & Simpson,1993.0,train
+318,dataset/Audio/318.mp3,dataset/Lyrics/318.txt,dataset/MIDIs/318.mid,Sweet,Cluster 2,Downtown,"Clark, Petula",Downtown: The Greatest Hits of Petula Clark,1999.0,train
+319,dataset/Audio/319.mp3,dataset/Lyrics/319.txt,,Sweet,Cluster 2,Hey Little Girl,"Clark, Dee",Rain Drops [Vee-Jay],1993.0,train
+320,dataset/Audio/320.mp3,dataset/Lyrics/320.txt,,Sweet,Cluster 2,Sixteen Candles,"Crests, The",Very Best of the Crests: Sixteen Candles,1994.0,dev
+321,dataset/Audio/321.mp3,dataset/Lyrics/321.txt,,Sweet,Cluster 2,Palomine,Bettie Serveert,Palomine,1992.0,train
+322,dataset/Audio/322.mp3,dataset/Lyrics/322.txt,,Sweet,Cluster 2,There's a Moon Out Tonight,Capris [1],There's a Moon out Tonight: The Very Best of the Capris,2000.0,train
+323,dataset/Audio/323.mp3,dataset/Lyrics/323.txt,,Sweet,Cluster 2,She Keeps the Home Fires Burning,"Milsap, Ronnie",40 #1 Hits,2000.0,test
+324,dataset/Audio/324.mp3,dataset/Lyrics/324.txt,,Sweet,Cluster 2,Alfie,"Black, Cilla",Best of the EMI Years,1998.0,train
+325,dataset/Audio/325.mp3,dataset/Lyrics/325.txt,,Sweet,Cluster 2,Chapel of Love,Dixie Cups,Very Best of the Dixie Cups: Chapel of Love,1999.0,train
+326,dataset/Audio/326.mp3,dataset/Lyrics/326.txt,,Sweet,Cluster 2,My Favorite Things,"Andrews, Julie [1]",Sound of Music [Original Soundtrack],1965.0,train
+327,dataset/Audio/327.mp3,dataset/Lyrics/327.txt,,Sweet,Cluster 2,Forever Baby,"Hatfield, Juliana",Hey Babe,1992.0,train
+328,dataset/Audio/328.mp3,dataset/Lyrics/328.txt,dataset/MIDIs/328.mid,Sweet,Cluster 2,Back for Good,Take That,Greatest Hits,1996.0,train
+329,dataset/Audio/329.mp3,dataset/Lyrics/329.txt,,Sweet,Cluster 2,You Were Meant for Me,"Klicher, Jewel",Pieces of You [Japan 1998],1998.0,train
+330,dataset/Audio/330.mp3,,,Sweet,Cluster 2,In the Mood,"Miller, Glenn [1]",Essential Glenn Miller,1939.0,train
+331,dataset/Audio/331.mp3,,,Sweet,Cluster 2,Music! Music! Music!,"Brewer, Teresa/Jacobs, Dick Orchestra",Best of Teresa Brewer [MCA],1989.0,train
+332,dataset/Audio/332.mp3,dataset/Lyrics/332.txt,dataset/MIDIs/332.mid,Sweet,Cluster 2,Kind of a Drag,Buckinghams,"Mercy, Mercy, Mercy: A Collection",1991.0,train
+333,dataset/Audio/333.mp3,dataset/Lyrics/333.txt,,Sweet,Cluster 2,Feed the Tree,Belly,Star,1993.0,test
+334,dataset/Audio/334.mp3,dataset/Lyrics/334.txt,dataset/MIDIs/334.mid,Sweet,Cluster 2,Could It Be I'm Falling in Love,Spinners,Very Best of the Spinners [Rhino],1993.0,train
+335,dataset/Audio/335.mp3,dataset/Lyrics/335.txt,,Autumnal,Cluster 3,Whiter Shade of Pale,Procul Harum,Best of Procol Harum [A&M],1973.0,dev
+336,dataset/Audio/336.mp3,dataset/Lyrics/336.txt,,Autumnal,Cluster 3,Just a Little,Beau Brummels,Best of the Beau Brummels: Golden Archive Series,1987.0,train
+337,dataset/Audio/337.mp3,dataset/Lyrics/337.txt,,Autumnal,Cluster 3,Fuzzy,Grant Lee Buffalo,Fuzzy,1993.0,train
+338,dataset/Audio/338.mp3,dataset/Lyrics/338.txt,dataset/MIDIs/338.mid,Autumnal,Cluster 3,Goodbye Yellow Brick Road,"John, Elton",Goodbye Yellow Brick Road,1973.0,test
+339,dataset/Audio/339.mp3,dataset/Lyrics/339.txt,,Autumnal,Cluster 3,Smoke Gets in Your Eyes,"Southern, Jeri",Very Thought of You: Decca Recordings 1951-57,1999.0,train
+340,dataset/Audio/340.mp3,dataset/Lyrics/340.txt,,Autumnal,Cluster 3,Waiting for the Sun,Jayhawks [1],Hollywood Town Hall,1992.0,test
+341,dataset/Audio/341.mp3,dataset/Lyrics/341.txt,,Autumnal,Cluster 3,Turn! Turn! Turn! (To Everything There Is a Season),Byrds,Turn! Turn! Turn! [Bonus Tracks],1996.0,train
+342,dataset/Audio/342.mp3,dataset/Lyrics/342.txt,dataset/MIDIs/342.mid,Autumnal,Cluster 3,Sundown,"Lightfoot, Gordon",Gord's Gold,1975.0,train
+343,dataset/Audio/343.mp3,dataset/Lyrics/343.txt,dataset/MIDIs/343.mid,Autumnal,Cluster 3,Harvest Moon,"Young, Neil",Harvest Moon,1992.0,train
+344,dataset/Audio/344.mp3,dataset/Lyrics/344.txt,dataset/MIDIs/344.mid,Autumnal,Cluster 3,Old Man,"Young, Neil",Decade,1977.0,dev
+345,dataset/Audio/345.mp3,dataset/Lyrics/345.txt,dataset/MIDIs/345.mid,Autumnal,Cluster 3,It Was a Very Good Year,"Sinatra, Frank",September of My Years,1965.0,dev
+346,dataset/Audio/346.mp3,dataset/Lyrics/346.txt,,Autumnal,Cluster 3,Beechwood Park,Zombies,Odessey and Oracle [30th Anniversary Edition],1998.0,train
+347,dataset/Audio/347.mp3,dataset/Lyrics/347.txt,dataset/MIDIs/347.mid,Autumnal,Cluster 3,Time of the Season,Zombies,Odessey and Oracle [30th Anniversary Edition],1998.0,train
+348,dataset/Audio/348.mp3,dataset/Lyrics/348.txt,,Autumnal,Cluster 3,Return of the Grievous Angel,"Parsons, Gram",G.P./Grievous Angel,1990.0,train
+349,dataset/Audio/349.mp3,dataset/Lyrics/349.txt,,Autumnal,Cluster 3,In My Hour of Darkness,"Parsons, Gram",G.P./Grievous Angel,1990.0,train
+350,dataset/Audio/350.mp3,dataset/Lyrics/350.txt,,Autumnal,Cluster 3,Boulder to Birmingham,"Harris, Emmylou",Pieces of the Sky,1975.0,train
+351,dataset/Audio/351.mp3,dataset/Lyrics/351.txt,,Autumnal,Cluster 3,Leave Me Alone,Chappaquiddick Skyline,Chappaquiddick Skyline,2000.0,test
+352,dataset/Audio/352.mp3,dataset/Lyrics/352.txt,,Autumnal,Cluster 3,Here,Tindersticks,Donkeys 92-97,1998.0,test
+353,dataset/Audio/353.mp3,,,Autumnal,Cluster 3,Love Songs on the Radio,Mojave Three,Ask Me Tomorrow,1996.0,train
+354,dataset/Audio/354.mp3,dataset/Lyrics/354.txt,,Autumnal,Cluster 3,Crystal Lake,Grandaddy,Sophtware Slump,2000.0,train
+355,dataset/Audio/355.mp3,dataset/Lyrics/355.txt,,Autumnal,Cluster 3,Down Colorful Hill,Red House Painters,Down Colorful Hill,1992.0,dev
+356,dataset/Audio/356.mp3,dataset/Lyrics/356.txt,,Autumnal,Cluster 3,Bring on the Dancing Horses,Echo & the Bunnymen,Ballyhoo,1997.0,dev
+357,dataset/Audio/357.mp3,dataset/Lyrics/357.txt,,Autumnal,Cluster 3,Little Hands,"Spence, Alexander """,Oar,1969.0,train
+358,dataset/Audio/358.mp3,dataset/Lyrics/358.txt,,Autumnal,Cluster 3,Pink Moon,"Drake, Nick",Pink Moon,1972.0,test
+359,dataset/Audio/359.mp3,,,Autumnal,Cluster 3,nan,nan,nan,nan,test
+360,dataset/Audio/360.mp3,dataset/Lyrics/360.txt,,Autumnal,Cluster 3,Sunflower,"Weller, Paul",Wild Wood,1993.0,train
+361,dataset/Audio/361.mp3,dataset/Lyrics/361.txt,,Autumnal,Cluster 3,Hickory Wind,Byrds,Sacred Hearts and Fallen Angels: The Gram Parsons Anthology,2001.0,train
+362,dataset/Audio/362.mp3,dataset/Lyrics/362.txt,,Autumnal,Cluster 3,Autumn Sweater,Yo La Tengo,I Can Hear the Heart Beating as One,1997.0,train
+363,dataset/Audio/363.mp3,,,Autumnal,Cluster 3,Can't Find the Time,Orpheus [1],Very Best of Orpheus,2001.0,train
+364,dataset/Audio/364.mp3,dataset/Lyrics/364.txt,,Autumnal,Cluster 3,"So Long, Marianne","Cohen, Leonard",Songs of Leonard Cohen,1968.0,train
+365,dataset/Audio/365.mp3,dataset/Lyrics/365.txt,,Autumnal,Cluster 3,In a Ditch,Scud Mountain Boys,Massachusetts,1996.0,train
+366,dataset/Audio/366.mp3,dataset/Lyrics/366.txt,,Autumnal,Cluster 3,Leave Them All Behind,Ride,Going Blank Again,1992.0,train
+367,dataset/Audio/367.mp3,dataset/Lyrics/367.txt,,Autumnal,Cluster 3,Miss Misery,"Smith, Elliott",Good Will Hunting,1997.0,train
+368,dataset/Audio/368.mp3,dataset/Lyrics/368.txt,,Autumnal,Cluster 3,Overcome by Happiness,Pernice Brothers,Overcome by Happiness,1998.0,train
+369,dataset/Audio/369.mp3,dataset/Lyrics/369.txt,dataset/MIDIs/369.mid,Autumnal,Cluster 3,Time in a Bottle,"Croce, Jim",50th Anniversary Collection,1992.0,test
+370,dataset/Audio/370.mp3,dataset/Lyrics/370.txt,,Autumnal,Cluster 3,Alone Again Or,Love,Forever Changes,1967.0,train
+371,dataset/Audio/371.mp3,dataset/Lyrics/371.txt,,Bittersweet,Cluster 3,Ladies and Gentlemen We Are Floating in Space,Spiritualized,Ladies and Gentlemen We Are Floating in Space,1997.0,test
+372,dataset/Audio/372.mp3,dataset/Lyrics/372.txt,,Bittersweet,Cluster 3,Fox in the Snow,Belle & Sebastian,If You're Feeling Sinister,1996.0,train
+373,dataset/Audio/373.mp3,,,Bittersweet,Cluster 3,Baby I Can't Please You,"Phillips, Sam [Singer]",Martinis & Bikinis,1994.0,train
+374,dataset/Audio/374.mp3,dataset/Lyrics/374.txt,,Bittersweet,Cluster 3,Bowling Green,"Case, Neko & Her Boyfriends",Virginian,1997.0,train
+375,dataset/Audio/375.mp3,dataset/Lyrics/375.txt,,Bittersweet,Cluster 3,Grace,"Buckley, Jeff",Grace,1994.0,train
+376,dataset/Audio/376.mp3,,,Bittersweet,Cluster 3,These Important Years,Husker Du,Warehouse: Songs and Stories,1987.0,dev
+377,dataset/Audio/377.mp3,,,Bittersweet,Cluster 3,Angi,"Graham, Davey","Troubadours of British Folk, Vol. 1: Unearthing the Tradition",1995.0,train
+378,dataset/Audio/378.mp3,dataset/Lyrics/378.txt,dataset/MIDIs/378.mid,Bittersweet,Cluster 3,New York State of Mind,"Joel, Billy",Turnstiles,1976.0,dev
+379,dataset/Audio/379.mp3,dataset/Lyrics/379.txt,,Bittersweet,Cluster 3,Closer to Free,Bodeans,Go Slow Down,1993.0,train
+380,dataset/Audio/380.mp3,dataset/Lyrics/380.txt,dataset/MIDIs/380.mid,Bittersweet,Cluster 3,Always on My Mind,"Nelson, Willie",Always on My Mind,1982.0,test
+381,dataset/Audio/381.mp3,dataset/Lyrics/381.txt,,Bittersweet,Cluster 3,Best Thing,Ivy,Apartment Life,1997.0,dev
+382,dataset/Audio/382.mp3,dataset/Lyrics/382.txt,,Bittersweet,Cluster 3,"Barnaby, Hardly Working",Yo La Tengo,President Yo La Tengo/New Wave Hot Dogs,1996.0,train
+383,dataset/Audio/383.mp3,dataset/Lyrics/383.txt,dataset/MIDIs/383.mid,Bittersweet,Cluster 3,Daniel,"John, Elton",Don't Shoot Me I'm Only the Piano Player,1973.0,test
+384,dataset/Audio/384.mp3,dataset/Lyrics/384.txt,,Bittersweet,Cluster 3,500 Miles Away from Home,"Bare, Bobby",Best of Bobby Bare [Razor & Tie],1994.0,dev
+385,dataset/Audio/385.mp3,dataset/Lyrics/385.txt,,Bittersweet,Cluster 3,"Both Sides, Now","Mitchell, Joni",Clouds,1969.0,train
+386,dataset/Audio/386.mp3,dataset/Lyrics/386.txt,,Bittersweet,Cluster 3,Voices Carry,Til Tuesday,Voices Carry,1985.0,train
+387,dataset/Audio/387.mp3,dataset/Lyrics/387.txt,dataset/MIDIs/387.mid,Bittersweet,Cluster 3,Before the Next Teardrop Falls,"Fender, Freddy",Greatest Hits,1999.0,train
+388,dataset/Audio/388.mp3,dataset/Lyrics/388.txt,dataset/MIDIs/388.mid,Bittersweet,Cluster 3,Changes,"Bowie, David",Hunky Dory,1971.0,test
+389,dataset/Audio/389.mp3,,,Bittersweet,Cluster 3,Breather X.O.X.O.,Unrest [1],Perfect Teeth,1993.0,dev
+390,dataset/Audio/390.mp3,dataset/Lyrics/390.txt,,Bittersweet,Cluster 3,Stolen Car,"Orton, Beth",Central Reservation,1999.0,train
+391,dataset/Audio/391.mp3,dataset/Lyrics/391.txt,,Bittersweet,Cluster 3,(There's) Always Something There to Remind Me,"Shaw, Sandie",Princess of Britpop [Castle],1999.0,train
+392,dataset/Audio/392.mp3,dataset/Lyrics/392.txt,,Bittersweet,Cluster 3,Who Knows Where the Time Goes?,Fairport Convention,No More Sad Refrains: The Anthology,2000.0,test
+393,dataset/Audio/393.mp3,dataset/Lyrics/393.txt,dataset/MIDIs/393.mid,Bittersweet,Cluster 3,Baby Blue,Badfinger,Very Best of Badfinger,2000.0,train
+394,dataset/Audio/394.mp3,dataset/Lyrics/394.txt,,Bittersweet,Cluster 3,Everybody's Stalking,Badly Drawn Boy,Hour of Bewilderbeast,2000.0,train
+395,dataset/Audio/395.mp3,dataset/Lyrics/395.txt,,Bittersweet,Cluster 3,American Gothic,"Ackles, David",American Gothic,1972.0,train
+396,dataset/Audio/396.mp3,dataset/Lyrics/396.txt,,Bittersweet,Cluster 3,Sunflower,Low [1],Things We Lost in the Fire,2001.0,train
+397,dataset/Audio/397.mp3,dataset/Lyrics/397.txt,dataset/MIDIs/397.mid,Bittersweet,Cluster 3,Fallin',"Keys, Alicia",Songs in A Minor,2001.0,train
+398,dataset/Audio/398.mp3,dataset/Lyrics/398.txt,,Bittersweet,Cluster 3,Anna (Go to Him),"Alexander, Arthur",Ultimate Arthur Alexander,1993.0,train
+399,dataset/Audio/399.mp3,,,Bittersweet,Cluster 3,Fine and Mellow,"Holiday, Billie/Hamilton, Chico",Lady in Autumn: The Best of the Verve Years,1946.0,train
+400,dataset/Audio/400.mp3,dataset/Lyrics/400.txt,dataset/MIDIs/400.mid,Bittersweet,Cluster 3,I Am a Rock,Simon & Garfunkel,Collected Works,1981.0,train
+401,dataset/Audio/401.mp3,dataset/Lyrics/401.txt,,Bittersweet,Cluster 3,Amelia,"Mitchell, Joni",Hejira,1976.0,test
+402,dataset/Audio/402.mp3,dataset/Lyrics/402.txt,dataset/MIDIs/402.mid,Bittersweet,Cluster 3,Walkin' After Midnight,"Cline, Patsy",12 Greatest Hits,1988.0,dev
+403,dataset/Audio/403.mp3,dataset/Lyrics/403.txt,dataset/MIDIs/403.mid,Bittersweet,Cluster 3,I Fall to Pieces,"Cline, Patsy",12 Greatest Hits,1988.0,dev
+404,dataset/Audio/404.mp3,dataset/Lyrics/404.txt,dataset/MIDIs/404.mid,Bittersweet,Cluster 3,Runaway,"Shannon, Del",Greatest Hits [Rhino],1990.0,dev
+405,dataset/Audio/405.mp3,dataset/Lyrics/405.txt,,Bittersweet,Cluster 3,Black Coffee,"Lee, Peggy [1]",Best of the Decca Years,1997.0,dev
+406,dataset/Audio/406.mp3,dataset/Lyrics/406.txt,,Bittersweet,Cluster 3,Always Late (With Your Kisses),"Frizzell, Lefty",Look What Thoughts Will Do,1997.0,train
+407,dataset/Audio/407.mp3,dataset/Lyrics/407.txt,,Bittersweet,Cluster 3,Bizarre Love Triangle,New Order [UK],Brotherhood,1986.0,train
+408,dataset/Audio/408.mp3,dataset/Lyrics/408.txt,,Bittersweet,Cluster 3,You've Been Flirting Again,Bjork,Post,1995.0,train
+409,dataset/Audio/409.mp3,dataset/Lyrics/409.txt,,Brooding,Cluster 3,Over the Ocean,Low [1],Curtain Hits the Cast,1996.0,train
+410,dataset/Audio/410.mp3,dataset/Lyrics/410.txt,,Brooding,Cluster 3,Blood and Roses,Smithereens,Blown to Smithereens: The Best of the Smithereens,1995.0,train
+411,dataset/Audio/411.mp3,dataset/Lyrics/411.txt,dataset/MIDIs/411.mid,Brooding,Cluster 3,Man in the Box,Alice In Chains,Facelift,1990.0,train
+412,dataset/Audio/412.mp3,dataset/Lyrics/412.txt,,Brooding,Cluster 3,Stormy Monday Blues,"Bland, Bobby","Greatest Hits, Vol. 1: The Duke Recordings",1998.0,dev
+413,dataset/Audio/413.mp3,,,Brooding,Cluster 3,Delia's Gone,"Cash, Johnny R",American Recordings,1994.0,train
+414,dataset/Audio/414.mp3,,,Brooding,Cluster 3,Mogwai Fear Satan,Mogwai,Young Team,1997.0,train
+415,dataset/Audio/415.mp3,,,Brooding,Cluster 3,In a Silent Way/It's About That Time: In a Silent Way/It's About ...,"Davis, Miles",In a Silent Way,1969.0,train
+416,dataset/Audio/416.mp3,dataset/Lyrics/416.txt,dataset/MIDIs/416.mid,Brooding,Cluster 3,Don't Let Me Be Misunderstood,Animals,Best of the Animals [ABKCO],1988.0,train
+417,dataset/Audio/417.mp3,dataset/Lyrics/417.txt,,Brooding,Cluster 3,Sour Times,Portishead,Dummy,1994.0,train
+418,dataset/Audio/418.mp3,dataset/Lyrics/418.txt,,Brooding,Cluster 3,Shot in the Arm,Wilco,Summerteeth,1999.0,train
+419,dataset/Audio/419.mp3,dataset/Lyrics/419.txt,,Brooding,Cluster 3,Black Metallic,Catherine Wheel,Ferment,1992.0,train
+420,dataset/Audio/420.mp3,dataset/Lyrics/420.txt,,Brooding,Cluster 3,I Still Miss Someone,"Cash, Johnny",Man in Black: His Greatest Hits,1999.0,train
+421,dataset/Audio/421.mp3,dataset/Lyrics/421.txt,dataset/MIDIs/421.mid,Brooding,Cluster 3,Natural Blues,Moby,Play,1999.0,train
+422,dataset/Audio/422.mp3,dataset/Lyrics/422.txt,,Brooding,Cluster 3,Bathysphere,Smog,Wild Love,1995.0,train
+423,dataset/Audio/423.mp3,dataset/Lyrics/423.txt,,Brooding,Cluster 3,Unfinished Sympathy,Massive Attack,Blue Lines,1991.0,train
+424,dataset/Audio/424.mp3,dataset/Lyrics/424.txt,,Brooding,Cluster 3,Misty Roses,"Hardin, Tim",Reason to Believe (The Best Of),1990.0,train
+425,dataset/Audio/425.mp3,dataset/Lyrics/425.txt,,Brooding,Cluster 3,I See a Darkness,Bonnie Prince Billy,I See a Darkness,1999.0,train
+426,dataset/Audio/426.mp3,dataset/Lyrics/426.txt,,Brooding,Cluster 3,Overcome,Tricky [1],Maxinquaye,1995.0,dev
+427,dataset/Audio/427.mp3,dataset/Lyrics/427.txt,dataset/MIDIs/427.mid,Brooding,Cluster 3,Criminal,"Apple, Fiona",Tidal,1996.0,test
+428,dataset/Audio/428.mp3,dataset/Lyrics/428.txt,,Brooding,Cluster 3,Cuts You Up,"Murphy, Peter",Wild Birds 1985-1995: The Best of the Beggars Banquet Years,2000.0,train
+429,dataset/Audio/429.mp3,dataset/Lyrics/429.txt,,Brooding,Cluster 3,My Own Prison,Creed [1],My Own Prison,1997.0,test
+430,dataset/Audio/430.mp3,dataset/Lyrics/430.txt,dataset/MIDIs/430.mid,Brooding,Cluster 3,Working Class Hero,"Lennon, John",John Lennon/Plastic Ono Band,1970.0,dev
+431,dataset/Audio/431.mp3,dataset/Lyrics/431.txt,,Brooding,Cluster 3,Everything Zen,Bush [2],Sixteen Stone,1994.0,train
+432,dataset/Audio/432.mp3,dataset/Lyrics/432.txt,,Brooding,Cluster 3,Karmacoma,Massive Attack,Protection,1994.0,train
+433,dataset/Audio/433.mp3,dataset/Lyrics/433.txt,dataset/MIDIs/433.mid,Brooding,Cluster 3,Bleed American,Jimmy Eat World,Jimmy Eat World,2001.0,test
+434,dataset/Audio/434.mp3,dataset/Lyrics/434.txt,,Brooding,Cluster 3,Heaven Knows I'm Miserable Now,Smiths,Hatful of Hollow,1984.0,train
+435,dataset/Audio/435.mp3,dataset/Lyrics/435.txt,dataset/MIDIs/435.mid,Brooding,Cluster 3,Karma Police,Radiohead,OK Computer,1997.0,dev
+436,dataset/Audio/436.mp3,dataset/Lyrics/436.txt,,Brooding,Cluster 3,Everybody Knows,"Cohen, Leonard",I'm Your Man,1988.0,train
+437,dataset/Audio/437.mp3,dataset/Lyrics/437.txt,,Brooding,Cluster 3,Lightning Crashes,Live [1],Throwing Copper,1994.0,train
+438,dataset/Audio/438.mp3,dataset/Lyrics/438.txt,,Brooding,Cluster 3,Killing Moon,Echo & The Bunnymen,Ocean Rain,1984.0,dev
+439,dataset/Audio/439.mp3,dataset/Lyrics/439.txt,,Brooding,Cluster 3,Ship Song,Nick Cave & The Bad Seeds,Good Son,1990.0,train
+440,dataset/Audio/440.mp3,dataset/Lyrics/440.txt,,Brooding,Cluster 3,I Am the Cosmos,"Bell, Chris [1]",I Am the Cosmos,1992.0,train
+441,dataset/Audio/441.mp3,dataset/Lyrics/441.txt,,Brooding,Cluster 3,Bell Bottom Blues,Derek & the Dominos,Layla and Other Assorted Love Songs,1970.0,train
+442,dataset/Audio/442.mp3,dataset/Lyrics/442.txt,,Brooding,Cluster 3,I Wanna Be Adored,"Stone Roses, The",Stone Roses,1989.0,train
+443,dataset/Audio/443.mp3,,,Brooding,Cluster 3,nan,nan,nan,nan,train
+444,dataset/Audio/444.mp3,dataset/Lyrics/444.txt,dataset/MIDIs/444.mid,Brooding,Cluster 3,High and Dry,Radiohead,Bends,1995.0,train
+445,dataset/Audio/445.mp3,dataset/Lyrics/445.txt,,Literate,Cluster 3,Blue Monday,New Order [UK],"Power, Corruption & Lies",1983.0,train
+446,dataset/Audio/446.mp3,dataset/Lyrics/446.txt,dataset/MIDIs/446.mid,Literate,Cluster 3,Mr. Tambourine Man,"Dylan, Bob",Bringing It All Back Home,1965.0,train
+447,dataset/Audio/447.mp3,dataset/Lyrics/447.txt,dataset/MIDIs/447.mid,Literate,Cluster 3,Every Breath You Take,Police,Synchronicity,1983.0,train
+448,dataset/Audio/448.mp3,,,Literate,Cluster 3,Chapter 8- Seashore and Horizon,Cornelius [2],Fantasma,1997.0,train
+449,dataset/Audio/449.mp3,dataset/Lyrics/449.txt,dataset/MIDIs/449.mid,Literate,Cluster 3,Doctor My Eyes,"Browne, Jackson",Jackson Browne,1972.0,train
+450,dataset/Audio/450.mp3,dataset/Lyrics/450.txt,,Literate,Cluster 3,God Give Me Strength,"Costello, Elvis/Bacharach, Burt",Painted from Memory,1998.0,test
+451,dataset/Audio/451.mp3,dataset/Lyrics/451.txt,,Literate,Cluster 3,Bridge Is Over,Boogie Down Productions,"Source Presents: Hits from the Vault, Vol. 1",1998.0,test
+452,dataset/Audio/452.mp3,dataset/Lyrics/452.txt,,Literate,Cluster 3,Parchman Farm,"Allison, Mose",Allison Wonderland: Anthology,1994.0,train
+453,dataset/Audio/453.mp3,,,Literate,Cluster 3,Ever Since the World Ended,"Allison, Mose",Allison Wonderland: Anthology,1994.0,train
+454,dataset/Audio/454.mp3,dataset/Lyrics/454.txt,,Literate,Cluster 3,Everyday I Write the Book,Elvis Costello & the Attractions,Very Best of Elvis Costello and the Attractions,1994.0,train
+455,dataset/Audio/455.mp3,dataset/Lyrics/455.txt,,Literate,Cluster 3,Eli's Coming,"Nyro, Laura",Eli and the Thirteenth Confession,1968.0,train
+456,dataset/Audio/456.mp3,dataset/Lyrics/456.txt,,Literate,Cluster 3,Bachelor Kisses,Go-Betweens,Bellavista Terrace: Best of the Go-Betweens,1999.0,train
+457,dataset/Audio/457.mp3,,,Literate,Cluster 3,nan,nan,nan,nan,train
+458,dataset/Audio/458.mp3,dataset/Lyrics/458.txt,,Literate,Cluster 3,I Ain't Marching Anymore,"Ochs, Phil",I Ain't Marching Anymore,1965.0,test
+459,dataset/Audio/459.mp3,dataset/Lyrics/459.txt,,Literate,Cluster 3,To the End,Blur,Parklife,1994.0,dev
+460,dataset/Audio/460.mp3,dataset/Lyrics/460.txt,,Literate,Cluster 3,Life During Wartime,Talking Heads,Stop Making Sense [Special Edition],1999.0,train
+461,dataset/Audio/461.mp3,dataset/Lyrics/461.txt,,Literate,Cluster 3,Accidents Will Happen,Elvis Costello & the Attractions,Armed Forces [Ryko Bonus Tracks],1993.0,dev
+462,dataset/Audio/462.mp3,dataset/Lyrics/462.txt,dataset/MIDIs/462.mid,Literate,Cluster 3,Deacon Blues,Steely Dan,Aja,1977.0,test
+463,dataset/Audio/463.mp3,dataset/Lyrics/463.txt,,Literate,Cluster 3,Dolphins,"Neil, Fred",Many Sides of Fred Neil,1998.0,train
+464,dataset/Audio/464.mp3,dataset/Lyrics/464.txt,,Literate,Cluster 3,Everybody's Talkin',"Neil, Fred",Many Sides of Fred Neil,1998.0,train
+465,dataset/Audio/465.mp3,dataset/Lyrics/465.txt,,Literate,Cluster 3,This Woman's Work,"Bush, Kate",Sensual World,1989.0,train
+466,dataset/Audio/466.mp3,dataset/Lyrics/466.txt,,Literate,Cluster 3,Weight,Band [1],Music from Big Pink [Bonus Tracks],2003.0,dev
+467,dataset/Audio/467.mp3,,,Literate,Cluster 3,Amsterdam,"Brel, Jacques",Amsterdam: The Best of Jacques Brel,1998.0,train
+468,dataset/Audio/468.mp3,dataset/Lyrics/468.txt,,Literate,Cluster 3,1941,"Nilsson, Harry",Personal Best: The Harry Nilsson Anthology,1995.0,dev
+469,dataset/Audio/469.mp3,dataset/Lyrics/469.txt,,Literate,Cluster 3,Everyday Is Like Sunday,Morrissey,Viva Hate,1988.0,train
+470,dataset/Audio/470.mp3,dataset/Lyrics/470.txt,,Literate,Cluster 3,Come Sundown,"Kristofferson, Kris",Kristofferson,1970.0,train
+471,dataset/Audio/471.mp3,dataset/Lyrics/471.txt,,Literate,Cluster 3,Dangling Conversation,Simon & Garfunkel,"Parsley, Sage, Rosemary and Thyme [Bonus Tracks]",2001.0,train
+472,dataset/Audio/472.mp3,dataset/Lyrics/472.txt,,Literate,Cluster 3,Raised on Robbery,"Mitchell, Joni",Court and Spark,1974.0,train
+473,dataset/Audio/473.mp3,dataset/Lyrics/473.txt,,Literate,Cluster 3,True Faith,New Order [UK],Substance,1987.0,train
+474,dataset/Audio/474.mp3,dataset/Lyrics/474.txt,,Literate,Cluster 3,Expecting to Fly,Buffalo Springfield,Buffalo Springfield Again,1967.0,train
+475,dataset/Audio/475.mp3,dataset/Lyrics/475.txt,,Literate,Cluster 3,Boy With the Thorn in His Side,Smiths,Queen Is Dead,1986.0,train
+476,dataset/Audio/476.mp3,dataset/Lyrics/476.txt,,Literate,Cluster 3,1952 Vincent Black Lightning,"Thompson, Richard [1]",Rumor and Sigh,1991.0,train
+477,dataset/Audio/477.mp3,dataset/Lyrics/477.txt,,Literate,Cluster 3,Heroin,Velvet Underground & Nico,Velvet Underground & Nico,1967.0,train
+478,dataset/Audio/478.mp3,dataset/Lyrics/478.txt,,Literate,Cluster 3,Downtown Train,"Waits, Tom",Rain Dogs,1985.0,train
+479,dataset/Audio/479.mp3,dataset/Lyrics/479.txt,,Literate,Cluster 3,Accidentally Like a Martyr,"Zevon, Warren",Excitable Boy,1978.0,train
+480,dataset/Audio/480.mp3,dataset/Lyrics/480.txt,,Literate,Cluster 3,Dallas,"Flatlanders, The",More a Legend Than a Band,1990.0,train
+481,dataset/Audio/481.mp3,dataset/Lyrics/481.txt,,Literate,Cluster 3,Seeing Other People,Belle & Sebastian,If You're Feeling Sinister,1996.0,test
+482,dataset/Audio/482.mp3,dataset/Lyrics/482.txt,,Literate,Cluster 3,Black Steel in the Hour of Chaos,Public Enemy,It Takes a Nation of Millions to Hold Us Back,1988.0,train
+483,dataset/Audio/483.mp3,dataset/Lyrics/483.txt,dataset/MIDIs/483.mid,Literate,Cluster 3,Where It's At,Beck,Odelay,1996.0,train
+484,dataset/Audio/484.mp3,dataset/Lyrics/484.txt,,Poignant,Cluster 3,Can't Find My Way Home,Blind Faith,Blind Faith,1969.0,train
+485,dataset/Audio/485.mp3,dataset/Lyrics/485.txt,,Poignant,Cluster 3,Last Goodbye,"Buckley, Jeff",Grace,1994.0,train
+486,dataset/Audio/486.mp3,dataset/Lyrics/486.txt,dataset/MIDIs/486.mid,Poignant,Cluster 3,Don't Dream It's Over,Crowded House,Crowded House,1986.0,train
+487,dataset/Audio/487.mp3,dataset/Lyrics/487.txt,,Poignant,Cluster 3,Ballad of el Goodo,Big Star,#1 Record/Radio City,1992.0,dev
+488,dataset/Audio/488.mp3,dataset/Lyrics/488.txt,,Poignant,Cluster 3,Thirteen,Big Star,#1 Record/Radio City,1992.0,train
+489,dataset/Audio/489.mp3,dataset/Lyrics/489.txt,,Poignant,Cluster 3,If,Bread [1],Manna,1971.0,train
+490,dataset/Audio/490.mp3,dataset/Lyrics/490.txt,dataset/MIDIs/490.mid,Poignant,Cluster 3,Crying,"Orbison, Roy",For the Lonely: 18 Greatest Hits,1988.0,train
+491,dataset/Audio/491.mp3,dataset/Lyrics/491.txt,dataset/MIDIs/491.mid,Poignant,Cluster 3,Long Black Veil,"Frizzell, Lefty",Best of Lefty Frizzell,1991.0,dev
+492,dataset/Audio/492.mp3,dataset/Lyrics/492.txt,,Poignant,Cluster 3,Walk Away Renee,Left Banke,There's Gonna Be a Storm: The Complete Recordings 1966-69,1992.0,test
+493,dataset/Audio/493.mp3,dataset/Lyrics/493.txt,,Poignant,Cluster 3,What's He Doing in My World,"Arnold, Eddy",Best of Eddy Arnold [RCA],1967.0,train
+494,dataset/Audio/494.mp3,dataset/Lyrics/494.txt,,Poignant,Cluster 3,Sweet Lady Mary,Faces,Best of Faces: Good Boys When They're Asleep,1999.0,test
+495,dataset/Audio/495.mp3,dataset/Lyrics/495.txt,,Poignant,Cluster 3,Hot Burrito No. 1,Flying Burrito Brothers,Gilded Palace of Sin,1969.0,test
+496,dataset/Audio/496.mp3,dataset/Lyrics/496.txt,dataset/MIDIs/496.mid,Poignant,Cluster 3,Amanda,"Jennings, Waylon",Ramblin' Man,1974.0,train
+497,dataset/Audio/497.mp3,dataset/Lyrics/497.txt,,Poignant,Cluster 3,Darling Be Home Soon,Lovin' Spoonful,Greatest Hits [Buddha],2000.0,dev
+498,dataset/Audio/498.mp3,dataset/Lyrics/498.txt,,Poignant,Cluster 3,My Favorite Things,"Coltrane, John",My Favorite Things,1960.0,train
+499,dataset/Audio/499.mp3,dataset/Lyrics/499.txt,,Poignant,Cluster 3,My Elusive Dreams,"Houston, David",Best of David Houston [Collectors' Choice],1999.0,train
+500,dataset/Audio/500.mp3,dataset/Lyrics/500.txt,,Poignant,Cluster 3,Sweet Lorraine,"Cole, Nat King","Best of the Nat King Cole Trio: The Vocal Classics, Vol. 1 (1942-1946)",1995.0,dev
+501,dataset/Audio/501.mp3,dataset/Lyrics/501.txt,,Poignant,Cluster 3,Sound of Silence,Simon & Garfunkel,Best of Simon & Garfunkel,1999.0,train
+502,dataset/Audio/502.mp3,dataset/Lyrics/502.txt,,Poignant,Cluster 3,Homeward Bound,Simon & Garfunkel,Best of Simon & Garfunkel,1999.0,train
+503,dataset/Audio/503.mp3,dataset/Lyrics/503.txt,,Poignant,Cluster 3,My Funny Valentine,"Davis, Miles Quintet",Cookin' [Bonus Track],1956.0,train
+504,dataset/Audio/504.mp3,dataset/Lyrics/504.txt,,Poignant,Cluster 3,Make It Easy on Yourself,Walker Brothers,Best of the Walker Brothers,2000.0,train
+505,dataset/Audio/505.mp3,dataset/Lyrics/505.txt,dataset/MIDIs/505.mid,Poignant,Cluster 3,Walk on By,"Warwick, Dionne",Very Best of Burt Bacharach [Rhino],2001.0,dev
+506,dataset/Audio/506.mp3,dataset/Lyrics/506.txt,dataset/MIDIs/506.mid,Poignant,Cluster 3,Killing Me Softly with His Song,"Flack, Roberta",Softly with These Songs: The Best of Roberta Flack,1993.0,test
+507,dataset/Audio/507.mp3,dataset/Lyrics/507.txt,,Poignant,Cluster 3,Blue Eyes Crying in the Rain,"Nelson, Willie",Greatest Hits (& Some That Will Be),1981.0,train
+508,dataset/Audio/508.mp3,dataset/Lyrics/508.txt,,Poignant,Cluster 3,Hello It's Me,"Rundgren, Todd",Something/Anything?,1972.0,train
+509,dataset/Audio/509.mp3,,,Poignant,Cluster 3,20 Million Things,"George, Lowell",Thanks I'll Eat It Here,1979.0,train
+510,dataset/Audio/510.mp3,dataset/Lyrics/510.txt,dataset/MIDIs/510.mid,Poignant,Cluster 3,Can We Still Be Friends?,"Rundgren, Todd",Hermit of Mink Hollow,1978.0,train
+511,dataset/Audio/511.mp3,dataset/Lyrics/511.txt,dataset/MIDIs/511.mid,Poignant,Cluster 3,Sweet Dreams,"Cline, Patsy",12 Greatest Hits,1988.0,train
+512,dataset/Audio/512.mp3,dataset/Lyrics/512.txt,,Poignant,Cluster 3,God Bless the Child,"Holiday, Billie",Complete Decca Recordings,1944.0,train
+513,dataset/Audio/513.mp3,dataset/Lyrics/513.txt,dataset/MIDIs/513.mid,Poignant,Cluster 3,How Can You Mend a Broken Heart?,Bee Gees,Trafalgar,1971.0,train
+514,dataset/Audio/514.mp3,dataset/Lyrics/514.txt,dataset/MIDIs/514.mid,Poignant,Cluster 3,Landslide,Fleetwood Mac,Fleetwood Mac,1975.0,dev
+515,dataset/Audio/515.mp3,dataset/Lyrics/515.txt,,Poignant,Cluster 3,Mandolin Wind,"Stewart, Rod",Every Picture Tells a Story,1971.0,test
+516,dataset/Audio/516.mp3,dataset/Lyrics/516.txt,,Wistful,Cluster 3,California Dreamin',Mamas & the Papas,If You Can Believe Your Eyes and Ears,1966.0,dev
+517,dataset/Audio/517.mp3,dataset/Lyrics/517.txt,,Wistful,Cluster 3,Handbags & Gladrags,"Stewart, Rod",Rod Stewart Album,1969.0,train
+518,dataset/Audio/518.mp3,dataset/Lyrics/518.txt,,Wistful,Cluster 3,Gasoline Alley,"Stewart, Rod",Gasoline Alley,1970.0,train
+519,dataset/Audio/519.mp3,,,Wistful,Cluster 3,One for My Baby (And One More for the Road),"Sinatra, Frank/Riddle, Nelson",Only the Lonely,1958.0,train
+520,dataset/Audio/520.mp3,,,Wistful,Cluster 3,I Don't Mind at All,Bourgeois Tagg/Coast String Quartet,Yoyo,1987.0,train
+521,dataset/Audio/521.mp3,dataset/Lyrics/521.txt,,Wistful,Cluster 3,"Summer, Highland Falls","Joel, Billy",Turnstiles,1976.0,train
+522,dataset/Audio/522.mp3,dataset/Lyrics/522.txt,dataset/MIDIs/522.mid,Wistful,Cluster 3,Rainy Days and Mondays,Carpenters,Singles 1969-1973,1973.0,test
+523,dataset/Audio/523.mp3,,,Wistful,Cluster 3,Goodbye Pork Pie Hat,"Mingus, Charles",Mingus Ah Um [Remastered],1999.0,train
+524,dataset/Audio/524.mp3,dataset/Lyrics/524.txt,,Wistful,Cluster 3,Good Year for the Roses,"Jones, George [1]",Essential George Jones: The Spirit of Country,1994.0,test
+525,dataset/Audio/525.mp3,,,Wistful,Cluster 3,Cousin Mary,"Coltrane, John",Giant Steps,1959.0,test
+526,dataset/Audio/526.mp3,dataset/Lyrics/526.txt,,Wistful,Cluster 3,Our Town,"DeMent, Iris",Infamous Angel,1992.0,test
+527,dataset/Audio/527.mp3,dataset/Lyrics/527.txt,dataset/MIDIs/527.mid,Wistful,Cluster 3,God Only Knows,Beach Boys,Pet Sounds,1966.0,train
+528,dataset/Audio/528.mp3,dataset/Lyrics/528.txt,,Wistful,Cluster 3,Angel from Montgomery,"Prine, John",John Prine,1971.0,train
+529,dataset/Audio/529.mp3,dataset/Lyrics/529.txt,,Wistful,Cluster 3,Lakes of Canada,Innocence Mission,Birds of My Neighborhood,1999.0,train
+530,dataset/Audio/530.mp3,dataset/Lyrics/530.txt,,Wistful,Cluster 3,Stardust,"Carmichael, Hoagy","Stardust, and Much More",1927.0,train
+531,dataset/Audio/531.mp3,,,Wistful,Cluster 3,Georgia on My Mind,"Carmichael, Hoagy & His Orchestra","Stardust, and Much More",1927.0,train
+532,dataset/Audio/532.mp3,dataset/Lyrics/532.txt,,Wistful,Cluster 3,Diamonds & Rust,"Baez, Joan",Greatest Hits [A&M],1996.0,dev
+533,dataset/Audio/533.mp3,dataset/Lyrics/533.txt,,Wistful,Cluster 3,Don't Get Around Much Anymore,Ink Spots [1],20th Century Masters - The Millennium Collection: The Best of The Ink Spots,1999.0,train
+534,dataset/Audio/534.mp3,dataset/Lyrics/534.txt,,Wistful,Cluster 3,Farther Along,Flying Burrito Brothers,Hot Burritos! The Flying Burrito Brothers Anthology 1969-1972,2000.0,train
+535,dataset/Audio/535.mp3,dataset/Lyrics/535.txt,,Wistful,Cluster 3,Wild Horses,Flying Burrito Brothers,Hot Burritos! The Flying Burrito Brothers Anthology 1969-1972,2000.0,train
+536,dataset/Audio/536.mp3,dataset/Lyrics/536.txt,dataset/MIDIs/536.mid,Wistful,Cluster 3,Waterloo Sunset,Kinks,Something Else by the Kinks,1967.0,dev
+537,dataset/Audio/537.mp3,dataset/Lyrics/537.txt,,Wistful,Cluster 3,Night They Drove Old Dixie Down,Band [1],Band,1969.0,train
+538,dataset/Audio/538.mp3,dataset/Lyrics/538.txt,,Wistful,Cluster 3,Better Be Home Soon,Crowded House,Temple of Low Men,1988.0,test
+539,dataset/Audio/539.mp3,dataset/Lyrics/539.txt,,Wistful,Cluster 3,(There's) Always Something There to Remind Me,"Shaw, Sandie",Very Best of Burt Bacharach [Rhino],2001.0,train
+540,dataset/Audio/540.mp3,dataset/Lyrics/540.txt,,Wistful,Cluster 3,Got Me Wrong,Alice In Chains,Sap,1992.0,train
+541,dataset/Audio/541.mp3,dataset/Lyrics/541.txt,dataset/MIDIs/541.mid,Wistful,Cluster 3,For the Good Times,"Kristofferson, Kris",Kristofferson,1970.0,test
+542,dataset/Audio/542.mp3,dataset/Lyrics/542.txt,,Wistful,Cluster 3,All Things Must Pass,"Harrison, George [1]",All Things Must Pass,1970.0,train
+543,dataset/Audio/543.mp3,dataset/Lyrics/543.txt,,Wistful,Cluster 3,Can't Hardly Wait,Replacements,Pleased to Meet Me,1987.0,train
+544,dataset/Audio/544.mp3,dataset/Lyrics/544.txt,,Wistful,Cluster 3,Here's Where the Story Ends,Sundays,"Reading, Writing and Arithmetic",1990.0,train
+545,dataset/Audio/545.mp3,dataset/Lyrics/545.txt,dataset/MIDIs/545.mid,Wistful,Cluster 3,She's Got You,"Cline, Patsy",12 Greatest Hits,1988.0,train
+546,dataset/Audio/546.mp3,,,Wistful,Cluster 3,Bricklayer's Beautiful Daughter,"Ackerman, William",Passage,1981.0,train
+547,dataset/Audio/547.mp3,dataset/Lyrics/547.txt,dataset/MIDIs/547.mid,Wistful,Cluster 3,Nights in White Satin,Moody Blues,Best of the Moody Blues,1997.0,train
+548,dataset/Audio/548.mp3,dataset/Lyrics/548.txt,,Wistful,Cluster 3,Take It to the Limit,Eagles [1],One of These Nights,1975.0,train
+549,dataset/Audio/549.mp3,dataset/Lyrics/549.txt,dataset/MIDIs/549.mid,Wistful,Cluster 3,Willin',Little Feat,As Time Goes By: The Very Best of Little Feat,1994.0,train
+550,dataset/Audio/550.mp3,dataset/Lyrics/550.txt,,Campy,Cluster 4,For the Dead,Gene [1],To See the Lights,1996.0,dev
+551,dataset/Audio/551.mp3,dataset/Lyrics/551.txt,,Campy,Cluster 4,Crying Game,Boy George,Crying Game [SBK],1993.0,dev
+552,dataset/Audio/552.mp3,dataset/Lyrics/552.txt,dataset/MIDIs/552.mid,Campy,Cluster 4,I Got You Babe,Sonny & Cher,Look at Us,1965.0,train
+553,dataset/Audio/553.mp3,dataset/Lyrics/553.txt,dataset/MIDIs/553.mid,Campy,Cluster 4,She Blinded Me With Science,"Dolby, Thomas",Best of Thomas Dolby: Retrospectacle,1995.0,train
+554,dataset/Audio/554.mp3,dataset/Lyrics/554.txt,,Campy,Cluster 4,Human Fly,Cramps,Bad Music for Bad People,1984.0,train
+555,dataset/Audio/555.mp3,dataset/Lyrics/555.txt,,Campy,Cluster 4,Can Your Pussy Do the Dog?,Cramps,Date With Elvis [Bonus Tracks],2001.0,train
+556,dataset/Audio/556.mp3,dataset/Lyrics/556.txt,,Campy,Cluster 4,Looking for a Kiss,New York Dolls,New York Dolls,1973.0,train
+557,dataset/Audio/557.mp3,dataset/Lyrics/557.txt,,Campy,Cluster 4,Oh Yeah,Yello,Stella,1985.0,dev
+558,dataset/Audio/558.mp3,dataset/Lyrics/558.txt,,Campy,Cluster 4,You Took the Words Right Out of My Mouth (Hot Summer Night),Meat Loaf,Bat Out of Hell,1977.0,test
+559,dataset/Audio/559.mp3,dataset/Lyrics/559.txt,dataset/MIDIs/559.mid,Campy,Cluster 4,Paradise by the Dashboard Light,Meat Loaf,Bat Out of Hell,1977.0,train
+560,dataset/Audio/560.mp3,dataset/Lyrics/560.txt,dataset/MIDIs/560.mid,Campy,Cluster 4,Killer Queen,Queen,Greatest Hits [Hollywood],1992.0,train
+561,dataset/Audio/561.mp3,dataset/Lyrics/561.txt,,Campy,Cluster 4,Fat Bottomed Girls,Queen,Greatest Hits [Hollywood],1992.0,test
+562,dataset/Audio/562.mp3,dataset/Lyrics/562.txt,dataset/MIDIs/562.mid,Campy,Cluster 4,Tainted Love,Soft Cell,Non-Stop Erotic Cabaret,1981.0,test
+563,dataset/Audio/563.mp3,dataset/Lyrics/563.txt,,Campy,Cluster 4,Blockbuster,Sweet,Sweet [Bonus Tracks],1999.0,train
+564,dataset/Audio/564.mp3,dataset/Lyrics/564.txt,,Campy,Cluster 4,Volare,"Chilton, Alex",High Priest/Black List [1-CD],1994.0,train
+565,dataset/Audio/565.mp3,,,Campy,Cluster 4,Theme of Luxury,Fantastic Plastic Machine,Luxury,1999.0,train
+566,dataset/Audio/566.mp3,dataset/Lyrics/566.txt,,Campy,Cluster 4,(We Don't Need This) Fascist Groove Thang,Heaven Seventeen,Best of Heaven 17,1998.0,test
+567,dataset/Audio/567.mp3,dataset/Lyrics/567.txt,dataset/MIDIs/567.mid,Campy,Cluster 4,Crucified,Army Of Lovers,Greatest Hits,1995.0,train
+568,dataset/Audio/568.mp3,dataset/Lyrics/568.txt,,Campy,Cluster 4,Hard Day's Night,"Sellers, Peter",Celebration of Sellers,1993.0,test
+569,dataset/Audio/569.mp3,dataset/Lyrics/569.txt,,Campy,Cluster 4,Ride a White Swan,T.Rex,Bolan Boogie,1972.0,train
+570,dataset/Audio/570.mp3,dataset/Lyrics/570.txt,,Campy,Cluster 4,Beat Goes On,Sonny & Cher,In Case You're in Love,1967.0,train
+571,dataset/Audio/571.mp3,dataset/Lyrics/571.txt,dataset/MIDIs/571.mid,Campy,Cluster 4,No More Mr. Nice Guy,"Cooper, Alice",Mascara & Monsters: The Best of Alice Cooper,2001.0,train
+572,dataset/Audio/572.mp3,dataset/Lyrics/572.txt,,Campy,Cluster 4,How to Be a Millionaire,ABC,20th Century Masters - The Millennium Collection: The Best of ABC,2000.0,test
+573,dataset/Audio/573.mp3,,,Campy,Cluster 4,"Theme from New York, New York","Minnelli, Liza",16 Biggest Hits,2000.0,train
+574,dataset/Audio/574.mp3,,,Campy,Cluster 4,Glamour Girl,Chicks On Speed/Punk Anderson,Will Save Us All!,2000.0,train
+575,dataset/Audio/575.mp3,dataset/Lyrics/575.txt,dataset/MIDIs/575.mid,Campy,Cluster 4,B.O.B.,Outkast,Stankonia,2000.0,dev
+576,dataset/Audio/576.mp3,,,Campy,Cluster 4,B.L. Got Soul,"Spencer, Jon",Now I Got Worry,1996.0,train
+577,dataset/Audio/577.mp3,dataset/Lyrics/577.txt,dataset/MIDIs/577.mid,Campy,Cluster 4,Video Killed the Radio Star,Buggles,Age of Plastic,1980.0,test
+578,dataset/Audio/578.mp3,dataset/Lyrics/578.txt,,Campy,Cluster 4,I Can Never Go Home Anymore,Shangri-Las,Myrmidons of Melodrama [RPM 136],1994.0,dev
+579,dataset/Audio/579.mp3,dataset/Lyrics/579.txt,dataset/MIDIs/579.mid,Campy,Cluster 4,Bohemian Rhapsody,Queen,Night at the Opera [Bonus Tracks],1991.0,test
+580,dataset/Audio/580.mp3,dataset/Lyrics/580.txt,,Campy,Cluster 4,These Boots Are Made for Walkin',"Sinatra, Nancy",Boots,1966.0,train
+581,dataset/Audio/581.mp3,dataset/Lyrics/581.txt,,Campy,Cluster 4,20th Century Boy,T Rex,Tanx [US Bonus Tracks],1973.0,dev
+582,dataset/Audio/582.mp3,,,Campy,Cluster 4,Supermodel (You Better Work),"RuPaul/Page, LaWanda",Supermodel to the World,1993.0,train
+583,dataset/Audio/583.mp3,,,Campy,Cluster 4,Cool Places,"Wiedlin, Jane/Sparks [1]",Profile: The Ultimate Sparks Collection,1991.0,dev
+584,dataset/Audio/584.mp3,,,Campy,Cluster 4,Da Da Da I Don't Love You You Don't Love Me Aha Aha Aha,Trio [4],Da Da Da [Mercury],1997.0,dev
+585,dataset/Audio/585.mp3,dataset/Lyrics/585.txt,,Campy,Cluster 4,Some Velvet Morning,Nancy Sinatra & Lee Hazlewood,Fairy Tales & Fantasies: The Best of Nancy & Lee,1989.0,test
+586,dataset/Audio/586.mp3,dataset/Lyrics/586.txt,,Campy,Cluster 4,Something for the Weekend,Divine Comedy,Casanova [Bonus Disc],1996.0,test
+587,dataset/Audio/587.mp3,dataset/Lyrics/587.txt,,Campy,Cluster 4,"Be My Light, Be My Guide",Gene [1],To See the Lights,1996.0,train
+588,dataset/Audio/588.mp3,dataset/Lyrics/588.txt,,Humorous,Cluster 4,Lump,Presidents Of The United States Of America,Presidents of the United States of America,1995.0,train
+589,dataset/Audio/589.mp3,dataset/Lyrics/589.txt,dataset/MIDIs/589.mid,Humorous,Cluster 4,One Week,Barenaked Ladies,Stunt,1998.0,dev
+590,dataset/Audio/590.mp3,dataset/Lyrics/590.txt,,Humorous,Cluster 4,Brooklyn Zoo,Ol' Dirty Bastard,Return to the 36 Chambers,1995.0,train
+591,dataset/Audio/591.mp3,dataset/Lyrics/591.txt,,Humorous,Cluster 4,Della and the Dealer,"Axton, Hoyt",Rusty Old Halo/Where Did the Money Go [1998],1998.0,train
+592,dataset/Audio/592.mp3,,,Humorous,Cluster 4,Here I Am,"Lovett, Lyle & His Large Band",Lyle Lovett and His Large Band,1989.0,train
+593,dataset/Audio/593.mp3,dataset/Lyrics/593.txt,dataset/MIDIs/593.mid,Humorous,Cluster 4,Jerry Was a Race Car Driver,Primus,Sailing the Seas of Cheese,1991.0,train
+594,dataset/Audio/594.mp3,dataset/Lyrics/594.txt,,Humorous,Cluster 4,All American Boy,"Bare, Bobby",Best of Bobby Bare [Razor & Tie],1994.0,train
+595,dataset/Audio/595.mp3,,,Humorous,Cluster 4,nan,nan,nan,nan,train
+596,dataset/Audio/596.mp3,dataset/Lyrics/596.txt,,Humorous,Cluster 4,Piss up a Rope,Ween,12 Golden Country Greats,1996.0,train
+597,dataset/Audio/597.mp3,dataset/Lyrics/597.txt,dataset/MIDIs/597.mid,Humorous,Cluster 4,Sheena Is a Punk Rocker,Ramones,Leave Home,1977.0,train
+598,dataset/Audio/598.mp3,dataset/Lyrics/598.txt,,Humorous,Cluster 4,Der Fuehrer's Face,"Jones, Spike",Greatest Hits [RCA],1999.0,train
+599,dataset/Audio/599.mp3,dataset/Lyrics/599.txt,,Humorous,Cluster 4,It Was a Very Good Beer,Simpsons,Songs in the Key of Springfield,1997.0,train
+600,dataset/Audio/600.mp3,dataset/Lyrics/600.txt,,Humorous,Cluster 4,Parents Just Don't Understand,DJ Jazzy Jeff & the Fresh Prince,"He's the DJ, I'm the Rapper",1988.0,train
+601,dataset/Audio/601.mp3,dataset/Lyrics/601.txt,,Humorous,Cluster 4,Marie Provost,"Lowe, Nick",Basher: The Best of Nick Lowe,1989.0,train
+602,dataset/Audio/602.mp3,dataset/Lyrics/602.txt,,Humorous,Cluster 4,Purple Toupee,They Might Be Giants,Lincoln,1989.0,train
+603,dataset/Audio/603.mp3,dataset/Lyrics/603.txt,dataset/MIDIs/603.mid,Humorous,Cluster 4,"Lawyers, Guns and Money","Zevon, Warren",Excitable Boy,1978.0,dev
+604,dataset/Audio/604.mp3,dataset/Lyrics/604.txt,,Humorous,Cluster 4,Feet Don't Fail Me Now,Utopia,Utopia,1982.0,train
+605,dataset/Audio/605.mp3,dataset/Lyrics/605.txt,,Humorous,Cluster 4,Hot Rod Lincoln,Commander Cody & His Lost Planet Airmen,Too Much Fun: Best of Commander Cody,1990.0,train
+606,dataset/Audio/606.mp3,dataset/Lyrics/606.txt,,Humorous,Cluster 4,Sex & Drugs & Rock & Roll,Ian Dury & The Blockheads,Sex & Drugs & Rock 'n' Roll: The Best of Ian Dury and the Blockheads,1992.0,dev
+607,dataset/Audio/607.mp3,,,Humorous,Cluster 4,Children's Story,"Slick Rick/Wright, DJ Vance",Great Adventures of Slick Rick,1988.0,dev
+608,dataset/Audio/608.mp3,dataset/Lyrics/608.txt,dataset/MIDIs/608.mid,Humorous,Cluster 4,Down Under,Men At Work,Contraband: The Best of Men at Work,1996.0,train
+609,dataset/Audio/609.mp3,dataset/Lyrics/609.txt,dataset/MIDIs/609.mid,Humorous,Cluster 4,"Don't Worry, Be Happy","McFerrin, Bobby",Best of Bobby McFerrin,1985.0,train
+610,dataset/Audio/610.mp3,dataset/Lyrics/610.txt,,Silly,Cluster 4,Tommy the Cat,Primus,Sailing the Seas of Cheese,1991.0,train
+611,dataset/Audio/611.mp3,dataset/Lyrics/611.txt,,Silly,Cluster 4,I'm Chief Kamanawanalea (We're the Royal Macadamia Nuts),Turtles,Turtles Present the Battle of the Bands,1968.0,test
+612,dataset/Audio/612.mp3,dataset/Lyrics/612.txt,,Silly,Cluster 4,Peaches,Presidents Of The United States Of America,Presidents of the United States of America,1995.0,train
+613,dataset/Audio/613.mp3,dataset/Lyrics/613.txt,dataset/MIDIs/613.mid,Silly,Cluster 4,Purple People Eater,"Wooley, Sheb",Dr. Demento 20th Anniversary Collection: The Greatest Novelty Records of All Time,1991.0,train
+614,dataset/Audio/614.mp3,dataset/Lyrics/614.txt,,Silly,Cluster 4,Monster Mash,"Pickett, Bobby ""Boris""/Crypt-Kickers",Dr. Demento 20th Anniversary Collection: The Greatest Novelty Records of All Time,1991.0,train
+615,dataset/Audio/615.mp3,dataset/Lyrics/615.txt,,Silly,Cluster 4,Transfusion,Nervous Norvus,Dr. Demento 20th Anniversary Collection: The Greatest Novelty Records of All Time,1991.0,train
+616,dataset/Audio/616.mp3,dataset/Lyrics/616.txt,,Silly,Cluster 4,Purple People Eater,"Colder, Ben",Shakey Breaky Car,1996.0,train
+617,dataset/Audio/617.mp3,dataset/Lyrics/617.txt,,Silly,Cluster 4,Vapors,Biz Markie,Goin' Off,1988.0,train
+618,dataset/Audio/618.mp3,dataset/Lyrics/618.txt,,Silly,Cluster 4,Be My Yoko Ono,Barenaked Ladies,Gordon,1992.0,dev
+619,dataset/Audio/619.mp3,dataset/Lyrics/619.txt,dataset/MIDIs/619.mid,Silly,Cluster 4,(She Was A) Hotel Detective,They Might Be Giants,They Might Be Giants,1986.0,train
+620,dataset/Audio/620.mp3,dataset/Lyrics/620.txt,,Silly,Cluster 4,Martian Boogie,Brownsville Station,Smokin' in the Boy's Room: The Best of Brownsville Station,1993.0,train
+621,dataset/Audio/621.mp3,,,Silly,Cluster 4,Any Old Iron,"Sellers, Peter/Mate's Spoffle Group Featuring Fred Spoons",Celebration of Sellers,1993.0,train
+622,dataset/Audio/622.mp3,dataset/Lyrics/622.txt,,Silly,Cluster 4,Grandma Got Run over by a Reindeer,Elmo & Patsy,Dr. Demento Presents: Greatest Xmas Novelty CD,1989.0,train
+623,dataset/Audio/623.mp3,dataset/Lyrics/623.txt,,Silly,Cluster 4,Streak,"Stevens, Ray [1]",Collection [MCA],1993.0,dev
+624,dataset/Audio/624.mp3,dataset/Lyrics/624.txt,,Silly,Cluster 4,Fish Heads,Barnes & Barnes,Voobaha,1980.0,train
+625,dataset/Audio/625.mp3,dataset/Lyrics/625.txt,,Silly,Cluster 4,Silly Love Songs,Wings,Wings at the Speed of Sound,1976.0,test
+626,dataset/Audio/626.mp3,dataset/Lyrics/626.txt,dataset/MIDIs/626.mid,Silly,Cluster 4,Bad Touch,Bloodhound Gang,Hooray for Boobies,2000.0,train
+627,dataset/Audio/627.mp3,dataset/Lyrics/627.txt,,Silly,Cluster 4,Surfin' Bird,Trashmen,Surfin' Bird,1964.0,train
+628,dataset/Audio/628.mp3,dataset/Lyrics/628.txt,,Silly,Cluster 4,Baggy Trousers,Madness [1],Ultimate Collection,2000.0,train
+629,dataset/Audio/629.mp3,dataset/Lyrics/629.txt,,Silly,Cluster 4,William Tell Overture,"Jones, Spike",Greatest Hits [RCA],1999.0,train
+630,dataset/Audio/630.mp3,dataset/Lyrics/630.txt,,Silly,Cluster 4,Cocktails for Two,"Jones, Spike",Greatest Hits [RCA],1999.0,train
+631,dataset/Audio/631.mp3,dataset/Lyrics/631.txt,,Silly,Cluster 4,Take the Skinheads Bowling,Camper Van Beethoven,Telephone Free Landslide Victory,1985.0,dev
+632,dataset/Audio/632.mp3,dataset/Lyrics/632.txt,,Silly,Cluster 4,All I Want for Christmas Is My Two Front Teeth,"Jones, Spike",Greatest Hits [RCA],1999.0,train
+633,dataset/Audio/633.mp3,dataset/Lyrics/633.txt,,Silly,Cluster 4,Judy Is a Punk,Ramones,Ramones,1976.0,test
+634,dataset/Audio/634.mp3,dataset/Lyrics/634.txt,,Silly,Cluster 4,King Tut,"Martin, Steve [1]",Wild and Crazy Guy,1978.0,train
+635,dataset/Audio/635.mp3,dataset/Lyrics/635.txt,,Silly,Cluster 4,Witch Doctor,Chipmunks,Club Chipmunk: The Dance Mixes,1996.0,test
+636,dataset/Audio/636.mp3,dataset/Lyrics/636.txt,,Silly,Cluster 4,Barbie Girl,Aqua [1],Aquarium,1997.0,train
+637,dataset/Audio/637.mp3,,,Silly,Cluster 4,(How Much) Is That Doggie in the Window?,"Haynes, Homer/Burns, Jethro",America's Song Butchers: The Weird World of Homer & Jethro,1997.0,train
+638,dataset/Audio/638.mp3,dataset/Lyrics/638.txt,,whimsical,Cluster 4,I Am a Cat,Shonen Knife,Let's Knife,1993.0,train
+639,dataset/Audio/639.mp3,dataset/Lyrics/639.txt,,whimsical,Cluster 4,I Know What I Like (In Your Wardrobe),Genesis [1],Selling England by the Pound,1973.0,train
+640,dataset/Audio/640.mp3,dataset/Lyrics/640.txt,,whimsical,Cluster 4,Judy and the Dream of Horses,Belle & Sebastian,If You're Feeling Sinister,1996.0,train
+641,dataset/Audio/641.mp3,dataset/Lyrics/641.txt,,whimsical,Cluster 4,We Gotta Get You a Woman,"Rundgren, Todd",Very Best of Todd Rundgren,1997.0,train
+642,dataset/Audio/642.mp3,dataset/Lyrics/642.txt,,whimsical,Cluster 4,Morning Girl,Neon Philharmonic,Moth Confesses [Bonus Tracks],1969.0,train
+643,dataset/Audio/643.mp3,dataset/Lyrics/643.txt,,whimsical,Cluster 4,Girl from Mars,Ash [1],1977,1996.0,train
+644,dataset/Audio/644.mp3,dataset/Lyrics/644.txt,,whimsical,Cluster 4,Baby Lemonade,"Barrett, Syd",Barrett,1970.0,train
+645,dataset/Audio/645.mp3,dataset/Lyrics/645.txt,,whimsical,Cluster 4,Year of the Cat,"Stewart, Al [1]",Year of the Cat,1976.0,test
+646,dataset/Audio/646.mp3,dataset/Lyrics/646.txt,,whimsical,Cluster 4,Sunshine Superman,Donovan [1],Sunshine Superman [US],1966.0,train
+647,dataset/Audio/647.mp3,dataset/Lyrics/647.txt,,whimsical,Cluster 4,Ghost at Number One,Jellyfish,Spilt Milk,1993.0,train
+648,dataset/Audio/648.mp3,dataset/Lyrics/648.txt,,whimsical,Cluster 4,Potholes in My Lawn,De La Soul,3 Feet High and Rising,1989.0,test
+649,dataset/Audio/649.mp3,dataset/Lyrics/649.txt,,whimsical,Cluster 4,I Am a Scientist,Guided By Voices,Bee Thousand,1994.0,test
+650,dataset/Audio/650.mp3,dataset/Lyrics/650.txt,,whimsical,Cluster 4,Jane,Barenaked Ladies,Maybe You Should Drive,1994.0,train
+651,dataset/Audio/651.mp3,dataset/Lyrics/651.txt,,whimsical,Cluster 4,Raspberry Beret,Prince & The Revolution,Around the World in a Day,1985.0,train
+652,dataset/Audio/652.mp3,,,whimsical,Cluster 4,I Enjoy Being a Boy (In Love With You),Banana Splits,"Bubblegum Classics, Vol. 3",1996.0,train
+653,dataset/Audio/653.mp3,dataset/Lyrics/653.txt,,whimsical,Cluster 4,Don't Let's Start,They Might Be Giants,They Might Be Giants,1986.0,train
+654,dataset/Audio/654.mp3,dataset/Lyrics/654.txt,,whimsical,Cluster 4,Me and My Arrow,"Nilsson, Harry",Point! [Dunhill],1970.0,test
+655,dataset/Audio/655.mp3,dataset/Lyrics/655.txt,,whimsical,Cluster 4,Another Nail in My Heart,Squeeze [UK],Argybargy [Bonus Tracks],1997.0,train
+656,dataset/Audio/656.mp3,dataset/Lyrics/656.txt,,whimsical,Cluster 4,Lazy Line Painter Jane,Belle & Sebastian,Lazy Line Painter Jane [EP Box Set],2000.0,dev
+657,dataset/Audio/657.mp3,dataset/Lyrics/657.txt,,whimsical,Cluster 4,History Never Repeats,Split Enz,History Never Repeats: The Best of Split Enz,1987.0,train
+658,dataset/Audio/658.mp3,dataset/Lyrics/658.txt,,whimsical,Cluster 4,Flowers in the Rain,Move [1],Omnibus: The 60s Singles As and Bs,1999.0,train
+659,dataset/Audio/659.mp3,dataset/Lyrics/659.txt,,whimsical,Cluster 4,Blackberry Way,Move [1],Omnibus: The 60s Singles As and Bs,1999.0,train
+660,dataset/Audio/660.mp3,dataset/Lyrics/660.txt,,whimsical,Cluster 4,Dear Mr. Fantasy,Traffic,Mr. Fantasy,1967.0,train
+661,dataset/Audio/661.mp3,,,whimsical,Cluster 4,Your Feet's Too Big,"Waller, Fats/Hamilton, John [Trumpet] ""Bugs""/Sedric, Gene/Smith, John [15]/Wallace, Cedric/Jones, Slick",Very Best of Fats Waller [Collectors' Choice],2000.0,test
+662,dataset/Audio/662.mp3,dataset/Lyrics/662.txt,dataset/MIDIs/662.mid,whimsical,Cluster 4,Another Day,"McCartney, Paul",All the Best,1987.0,test
+663,dataset/Audio/663.mp3,dataset/Lyrics/663.txt,,whimsical,Cluster 4,Octopus,"Barrett, Syd",Crazy Diamond,1994.0,train
+664,dataset/Audio/664.mp3,dataset/Lyrics/664.txt,,whimsical,Cluster 4,She Don't Use Jelly,Flaming Lips,Transmissions from the Satellite Heart,1993.0,train
+665,dataset/Audio/665.mp3,dataset/Lyrics/665.txt,,whimsical,Cluster 4,Troubbble,"Malkmus, Stephen",Stephen Malkmus,2001.0,train
+666,dataset/Audio/666.mp3,dataset/Lyrics/666.txt,,whimsical,Cluster 4,Pablo Picasso,The Modern Lovers,Modern Lovers,1976.0,train
+667,dataset/Audio/667.mp3,dataset/Lyrics/667.txt,,whimsical,Cluster 4,59th Street Bridge Song (Feelin' Groovy),Simon & Garfunkel,"Parsley, Sage, Rosemary and Thyme",1966.0,train
+668,dataset/Audio/668.mp3,dataset/Lyrics/668.txt,dataset/MIDIs/668.mid,whimsical,Cluster 4,Winchester Cathedral,New Vaudeville Band,Billboard Top Pop Hits: 1966,1995.0,train
+669,dataset/Audio/669.mp3,dataset/Lyrics/669.txt,,whimsical,Cluster 4,Balloon Man,"Hitchcock, Robyn",Greatest Hits,1996.0,dev
+670,dataset/Audio/670.mp3,dataset/Lyrics/670.txt,,whimsical,Cluster 4,Arnold Layne,Pink Floyd,Relics,1971.0,dev
+671,dataset/Audio/671.mp3,dataset/Lyrics/671.txt,dataset/MIDIs/671.mid,whimsical,Cluster 4,Human Behaviour,Bjork,Debut,1993.0,train
+672,dataset/Audio/672.mp3,dataset/Lyrics/672.txt,dataset/MIDIs/672.mid,Witty,Cluster 4,Crazy Little Thing Called Love,Queen,Greatest Hits [Hollywood],1992.0,dev
+673,dataset/Audio/673.mp3,dataset/Lyrics/673.txt,,Witty,Cluster 4,It Could Have Been a Brilliant Career,Belle & Sebastian,Boy with the Arab Strap,1998.0,dev
+674,dataset/Audio/674.mp3,dataset/Lyrics/674.txt,,Witty,Cluster 4,Bonita Applebum,Tribe Called Quest,People's Instinctive Travels and the Paths of Rhythm,1990.0,train
+675,dataset/Audio/675.mp3,dataset/Lyrics/675.txt,,Witty,Cluster 4,King of the Road,"Miller, Roger [Country]",Golden Hits,1965.0,train
+676,dataset/Audio/676.mp3,dataset/Lyrics/676.txt,,Witty,Cluster 4,Eyesight to the Blind,"Allison, Mose",Allison Wonderland: Anthology,1994.0,train
+677,dataset/Audio/677.mp3,dataset/Lyrics/677.txt,,Witty,Cluster 4,Mama Told Me (Not to Come),"Newman, Randy",12 Songs,1970.0,dev
+678,dataset/Audio/678.mp3,dataset/Lyrics/678.txt,,Witty,Cluster 4,Political Science,"Newman, Randy",Sail Away,1972.0,train
+679,dataset/Audio/679.mp3,dataset/Lyrics/679.txt,,Witty,Cluster 4,(I Don't Want to Go To) Chelsea,"Costello, Elvis",This Year's Model [Ryko Bonus Tracks],1978.0,train
+680,dataset/Audio/680.mp3,dataset/Lyrics/680.txt,dataset/MIDIs/680.mid,Witty,Cluster 4,It's the End of the World as We Know It (And I Feel Fine),REM,Document,1987.0,train
+681,dataset/Audio/681.mp3,dataset/Lyrics/681.txt,,Witty,Cluster 4,Black Cow,Steely Dan,Aja,1977.0,train
+682,dataset/Audio/682.mp3,dataset/Lyrics/682.txt,,Witty,Cluster 4,Girl U Want,Devo,Pioneers Who Got Scalped: The Anthology,2000.0,train
+683,dataset/Audio/683.mp3,dataset/Lyrics/683.txt,,Witty,Cluster 4,You Never Can Tell,"Berry, Chuck",Anthology,2000.0,train
+684,dataset/Audio/684.mp3,dataset/Lyrics/684.txt,,Witty,Cluster 4,Substitute,Who [1],Meaty Beaty Big and Bouncy,1971.0,train
+685,dataset/Audio/685.mp3,,,Witty,Cluster 4,Chanson de Jacky,"Brel, Jacques",Amsterdam: The Best of Jacques Brel,1998.0,train
+686,dataset/Audio/686.mp3,dataset/Lyrics/686.txt,dataset/MIDIs/686.mid,Witty,Cluster 4,"John, I'm Only Dancing","Bowie, David",Best of David Bowie 1969/1974,1997.0,train
+687,dataset/Audio/687.mp3,dataset/Lyrics/687.txt,,Witty,Cluster 4,You Can't Do That,"Nilsson, Harry",Personal Best: The Harry Nilsson Anthology,1995.0,dev
+688,dataset/Audio/688.mp3,dataset/Lyrics/688.txt,,Witty,Cluster 4,"Poor, Poor Pitiful Me","Zevon, Warren",Rolling Stone Presents: Male Singer-Songwriters,2001.0,train
+689,dataset/Audio/689.mp3,dataset/Lyrics/689.txt,,Witty,Cluster 4,Cigarettes and Chocolate Milk,"Wainwright, Rufus",Poses,2001.0,test
+690,dataset/Audio/690.mp3,,,Witty,Cluster 4,Is That Love,Squeeze [UK],Singles 45's and Under,1982.0,test
+691,dataset/Audio/691.mp3,dataset/Lyrics/691.txt,,Witty,Cluster 4,So You Think You're in Love,Robyn Hitchcock & the Egyptians,Perspex Island,1991.0,train
+692,dataset/Audio/692.mp3,dataset/Lyrics/692.txt,,Witty,Cluster 4,Marie Provost,"Lowe, Nick",Jesus of Cool,1978.0,train
+693,dataset/Audio/693.mp3,dataset/Lyrics/693.txt,dataset/MIDIs/693.mid,Witty,Cluster 4,Suburbia,Pet Shop Boys,Please,1986.0,train
+694,dataset/Audio/694.mp3,dataset/Lyrics/694.txt,,Witty,Cluster 4,Sex & Drugs & Rock & Roll,"Dury, Ian",Reasons to Be Cheerful: The Very Best of Ian Dury & the Blockheads,1996.0,train
+695,dataset/Audio/695.mp3,dataset/Lyrics/695.txt,,Witty,Cluster 4,This Charming Man,Smiths,Hatful of Hollow,1984.0,dev
+696,dataset/Audio/696.mp3,dataset/Lyrics/696.txt,,Witty,Cluster 4,Panic,Smiths,Louder Than Bombs,1987.0,test
+697,dataset/Audio/697.mp3,,,Witty,Cluster 4,I Feel So Good,"Thompson, Richard [1]",Rumor and Sigh,1991.0,dev
+698,dataset/Audio/698.mp3,dataset/Lyrics/698.txt,dataset/MIDIs/698.mid,Witty,Cluster 4,Ana Ng,They Might Be Giants,Lincoln,1989.0,train
+699,dataset/Audio/699.mp3,dataset/Lyrics/699.txt,,Witty,Cluster 4,Scenario,Tribe Called Quest,Low End Theory,1991.0,train
+700,dataset/Audio/700.mp3,dataset/Lyrics/700.txt,,Witty,Cluster 4,Becoming More Like Alfie,Divine Comedy,Casanova [Bonus Disc],1996.0,test
+701,dataset/Audio/701.mp3,dataset/Lyrics/701.txt,,Witty,Cluster 4,Rent,Pet Shop Boys,Actually,1987.0,test
+702,dataset/Audio/702.mp3,dataset/Lyrics/702.txt,,Witty,Cluster 4,Highway 61 Revisited,"Dylan, Bob",Highway 61 Revisited,1965.0,train
+703,dataset/Audio/703.mp3,dataset/Lyrics/703.txt,,Witty,Cluster 4,Everybody's Happy Nowadays,Buzzcocks,Singles Going Steady,1979.0,train
+704,dataset/Audio/704.mp3,dataset/Lyrics/704.txt,,Wry,Cluster 4,Advice to the Graduate,Silver Jews,Starlite Walker,1994.0,train
+705,dataset/Audio/705.mp3,dataset/Lyrics/705.txt,,Wry,Cluster 4,Always Look on the Bright Side of Life,Monty Python,Monty Python Sings,1989.0,dev
+706,dataset/Audio/706.mp3,dataset/Lyrics/706.txt,,Wry,Cluster 4,Dishes,Pulp,This Is Hardcore,1998.0,train
+707,dataset/Audio/707.mp3,dataset/Lyrics/707.txt,dataset/MIDIs/707.mid,Wry,Cluster 4,Subterranean Homesick Blues,"Dylan, Bob",Bringing It All Back Home,1965.0,train
+708,dataset/Audio/708.mp3,dataset/Lyrics/708.txt,,Wry,Cluster 4,Greetings to the New Brunette,"Bragg, Billy",Talking with the Taxman About Poetry,1986.0,dev
+709,dataset/Audio/709.mp3,dataset/Lyrics/709.txt,,Wry,Cluster 4,Honk if You're Lonely,Silver Jews,American Water,1998.0,train
+710,dataset/Audio/710.mp3,dataset/Lyrics/710.txt,,Wry,Cluster 4,Boy With the Arab Strap,Belle & Sebastian,Boy with the Arab Strap,1998.0,train
+711,dataset/Audio/711.mp3,dataset/Lyrics/711.txt,,Wry,Cluster 4,Babies,Pulp,His 'n' Hers,1994.0,train
+712,dataset/Audio/712.mp3,dataset/Lyrics/712.txt,,Wry,Cluster 4,"Ballad of Mott the Hoople (26th March 1972, Zürich)",Mott the Hoople,Mott,1973.0,train
+713,dataset/Audio/713.mp3,dataset/Lyrics/713.txt,,Wry,Cluster 4,Do You Remember the First Time?,Pulp,His 'n' Hers,1994.0,train
+714,dataset/Audio/714.mp3,dataset/Lyrics/714.txt,,Wry,Cluster 4,God Will,"Lovett, Lyle",Lyle Lovett,1986.0,train
+715,dataset/Audio/715.mp3,dataset/Lyrics/715.txt,,Wry,Cluster 4,Friends of P.,Rentals,Return of the Rentals,1995.0,train
+716,dataset/Audio/716.mp3,dataset/Lyrics/716.txt,,Wry,Cluster 4,Beauty Mark,"Wainwright, Rufus",Rufus Wainwright,1998.0,train
+717,dataset/Audio/717.mp3,dataset/Lyrics/717.txt,,Wry,Cluster 4,Dead Skunk,"Wainwright, Loudon III","Super Hits of the '70s: Have a Nice Day, Vol. 10",1990.0,train
+718,dataset/Audio/718.mp3,dataset/Lyrics/718.txt,,Wry,Cluster 4,Eye Know,De La Soul,3 Feet High and Rising,1989.0,train
+719,dataset/Audio/719.mp3,dataset/Lyrics/719.txt,,Wry,Cluster 4,"Me, Myself and I",De La Soul,3 Feet High and Rising,1989.0,train
+720,dataset/Audio/720.mp3,dataset/Lyrics/720.txt,,Wry,Cluster 4,I.G.Y.,"Fagen, Donald",Nightfly,1982.0,train
+721,dataset/Audio/721.mp3,dataset/Lyrics/721.txt,dataset/MIDIs/721.mid,Wry,Cluster 4,Heart of Glass,Blondie,Best of Blondie [Australia],1999.0,dev
+722,dataset/Audio/722.mp3,dataset/Lyrics/722.txt,,Wry,Cluster 4,Dear God,XTC,Skylarking,1986.0,dev
+723,dataset/Audio/723.mp3,dataset/Lyrics/723.txt,dataset/MIDIs/723.mid,Wry,Cluster 4,Rapture,Blondie,Best of Blondie [Australia],1999.0,train
+724,dataset/Audio/724.mp3,,,Wry,Cluster 4,Home in My Hand,Brinsley Schwarz,Original Golden Greats/Fifteen Thoughts of Brinsley Schwarz,2000.0,train
+725,dataset/Audio/725.mp3,dataset/Lyrics/725.txt,,Wry,Cluster 4,Don't Come Around Here No More,"Petty, Tom & The Heartbreakers",Southern Accents,1985.0,train
+726,dataset/Audio/726.mp3,dataset/Lyrics/726.txt,,Wry,Cluster 4,Surfing Magazines,Go-Betweens,Friends of Rachel Worth,2000.0,test
+727,dataset/Audio/727.mp3,dataset/Lyrics/727.txt,dataset/MIDIs/727.mid,Wry,Cluster 4,Mrs. Robinson,Simon & Garfunkel,Best of Simon & Garfunkel,1999.0,train
+728,dataset/Audio/728.mp3,dataset/Lyrics/728.txt,,Wry,Cluster 4,Fuck and Run,"Phair, Liz",Exile in Guyville,1993.0,train
+729,dataset/Audio/729.mp3,dataset/Lyrics/729.txt,,Wry,Cluster 4,Cynical Girl,"Crenshaw, Marshall",Marshall Crenshaw [1982],1982.0,train
+730,dataset/Audio/730.mp3,dataset/Lyrics/730.txt,,Wry,Cluster 4,Sailin' Shoes,Little Feat,Sailin' Shoes,1972.0,train
+731,dataset/Audio/731.mp3,dataset/Lyrics/731.txt,,Wry,Cluster 4,Jenny and the Ess-Dog,"Malkmus, Stephen",Stephen Malkmus,2001.0,test
+732,dataset/Audio/732.mp3,dataset/Lyrics/732.txt,,Wry,Cluster 4,Girls Ain't Nothing But Trouble,DJ Jazzy Jeff & the Fresh Prince,Rock the House,1987.0,train
+733,dataset/Audio/733.mp3,dataset/Lyrics/733.txt,dataset/MIDIs/733.mid,Wry,Cluster 4,Sunny Afternoon,Kinks,"Greatest Hits, Vol. 1 [Rhino]",1989.0,train
+734,dataset/Audio/734.mp3,dataset/Lyrics/734.txt,,Wry,Cluster 4,"Reasons to Be Cheerful, Pt. 3",Ian Dury & The Blockheads,Sex & Drugs & Rock 'n' Roll: The Best of Ian Dury and the Blockheads,1992.0,train
+735,dataset/Audio/735.mp3,dataset/Lyrics/735.txt,,Wry,Cluster 4,Jump,Aztec Camera,Just Say Yesterday: Volume VI of Just Say Yes,1992.0,train
+736,dataset/Audio/736.mp3,dataset/Lyrics/736.txt,,Wry,Cluster 4,Stars of Track and Field,Belle & Sebastian,If You're Feeling Sinister,1996.0,train
+737,dataset/Audio/737.mp3,dataset/Lyrics/737.txt,,Wry,Cluster 4,If You're Feeling Sinister,Belle & Sebastian,If You're Feeling Sinister,1996.0,train
+738,dataset/Audio/738.mp3,dataset/Lyrics/738.txt,,Wry,Cluster 4,I Was a Stranger,Smog,Red Apple Falls,1997.0,test
+739,dataset/Audio/739.mp3,dataset/Lyrics/739.txt,,Wry,Cluster 4,Girl Like You,"Collins, Edwyn",Gorgeous George,1994.0,dev
+740,dataset/Audio/740.mp3,dataset/Lyrics/740.txt,dataset/MIDIs/740.mid,Wry,Cluster 4,"Don't Think Twice, It's All Right","Dylan, Bob",Freewheelin' Bob Dylan,1963.0,test
+741,dataset/Audio/741.mp3,dataset/Lyrics/741.txt,dataset/MIDIs/741.mid,Agressive,Cluster 5,Godzilla,Blue Oyster Cult,Workshop of the Telescopes,1995.0,test
+742,dataset/Audio/742.mp3,dataset/Lyrics/742.txt,,Agressive,Cluster 5,Get at Me Dog,DMX [1],It's Dark and Hell Is Hot,1998.0,train
+743,dataset/Audio/743.mp3,dataset/Lyrics/743.txt,,Agressive,Cluster 5,Ace of Spades,Motorhead,No Remorse,1984.0,test
+744,dataset/Audio/744.mp3,dataset/Lyrics/744.txt,,Agressive,Cluster 5,Handsome and Gretel,Babes In Toyland,Fontanelle,1992.0,test
+745,dataset/Audio/745.mp3,dataset/Lyrics/745.txt,,Agressive,Cluster 5,Mama Said Knock You Out,LL Cool J,Mama Said Knock You Out,1990.0,train
+746,dataset/Audio/746.mp3,dataset/Lyrics/746.txt,,Agressive,Cluster 5,Eton Rifles,Jam [1],Setting Sons,1979.0,train
+747,dataset/Audio/747.mp3,dataset/Lyrics/747.txt,,Agressive,Cluster 5,Gary Gilmore's Eyes,Adverts,D.I.Y.: Anarchy in the UK: UK Punk I (1976-77),1993.0,dev
+748,dataset/Audio/748.mp3,dataset/Lyrics/748.txt,,Agressive,Cluster 5,Fire,Jimi Hendrix Experience,Are You Experienced? [US 1993],1993.0,dev
+749,dataset/Audio/749.mp3,,,Agressive,Cluster 5,MBV Arkestra (If They Move Kill 'Em),Primal Scream,XTRMNTR,2000.0,dev
+750,dataset/Audio/750.mp3,dataset/Lyrics/750.txt,dataset/MIDIs/750.mid,Agressive,Cluster 5,Break on Through (To the Other Side),Doors,Best of the Doors [1985],1985.0,train
+751,dataset/Audio/751.mp3,,,Agressive,Cluster 5,Quarantined,At The Drive In,Relationship of Command,2000.0,dev
+752,dataset/Audio/752.mp3,dataset/Lyrics/752.txt,,Agressive,Cluster 5,Bring the Pain,Method Man,Tical,1994.0,dev
+753,dataset/Audio/753.mp3,dataset/Lyrics/753.txt,,Agressive,Cluster 5,Blues from a Gun,Jesus & Mary Chain,Automatic,1989.0,train
+754,dataset/Audio/754.mp3,dataset/Lyrics/754.txt,dataset/MIDIs/754.mid,Agressive,Cluster 5,Breaking the Law,Judas Priest,British Steel,1980.0,train
+755,dataset/Audio/755.mp3,dataset/Lyrics/755.txt,,Agressive,Cluster 5,Attitude,"Misfits, The",Collection II,1995.0,train
+756,dataset/Audio/756.mp3,dataset/Lyrics/756.txt,,Agressive,Cluster 5,Am I Evil?,Diamond Head,Behold the Beginning,1986.0,train
+757,dataset/Audio/757.mp3,dataset/Lyrics/757.txt,dataset/MIDIs/757.mid,Agressive,Cluster 5,You Really Got Me,Kinks,"Greatest Hits, Vol. 1 [Rhino]",1989.0,train
+758,dataset/Audio/758.mp3,dataset/Lyrics/758.txt,,Agressive,Cluster 5,Dead Joe,Birthday Party,Hits,1992.0,train
+759,dataset/Audio/759.mp3,dataset/Lyrics/759.txt,,Agressive,Cluster 5,Flava in Ya Ear,"Mack, Craig",Project: Funk da World,1994.0,dev
+760,dataset/Audio/760.mp3,dataset/Lyrics/760.txt,,Agressive,Cluster 5,Bang Your Head (Metal Health),Quiet Riot,Greatest Hits,1996.0,train
+761,dataset/Audio/761.mp3,dataset/Lyrics/761.txt,,Agressive,Cluster 5,Breadfan,Budgie [Metal],Ecstasy of Fumbling: The Definitive Anthology,1996.0,train
+762,dataset/Audio/762.mp3,dataset/Lyrics/762.txt,,Agressive,Cluster 5,Smack My Bitch Up,Prodigy [1],Fat of the Land,1997.0,train
+763,dataset/Audio/763.mp3,dataset/Lyrics/763.txt,,Fiery,Cluster 5,For the Love of Ivy,Gun Club,Fire of Love,1981.0,test
+764,dataset/Audio/764.mp3,dataset/Lyrics/764.txt,dataset/MIDIs/764.mid,Fiery,Cluster 5,Like a Rolling Stone,"Dylan, Bob","Bootleg Series, Vol. 4: The ""Royal Albert Hall"" Concert",1998.0,dev
+765,dataset/Audio/765.mp3,dataset/Lyrics/765.txt,,Fiery,Cluster 5,Bone Machine,Pixies,Surfer Rosa,1988.0,train
+766,dataset/Audio/766.mp3,,,Fiery,Cluster 5,Holy Ghost,"Ayler, Albert",Live in Greenwich Village: The Complete Impulse Sessions,1998.0,dev
+767,dataset/Audio/767.mp3,,,Fiery,Cluster 5,Check Yo Self,Ice Cube/Das EFX,Predator,1992.0,train
+768,dataset/Audio/768.mp3,,,Fiery,Cluster 5,Better Get Hit in Yo' Soul,"Mingus, Charles",Mingus Ah Um [Remastered],1999.0,train
+769,dataset/Audio/769.mp3,dataset/Lyrics/769.txt,,Fiery,Cluster 5,Personality Crisis,New York Dolls,Rock 'n Roll,1994.0,dev
+770,dataset/Audio/770.mp3,,,Fiery,Cluster 5,Hambone,"Shepp, Archie",Fire Music,1965.0,train
+771,dataset/Audio/771.mp3,dataset/Lyrics/771.txt,,Fiery,Cluster 5,Devil With a Blue Dress On/Good Golly Miss Molly,"Ryder, Mitch",All Mitch Ryder Hits!,1967.0,train
+772,dataset/Audio/772.mp3,,,Fiery,Cluster 5,L.A. Blues,Stooges,Fun House,1970.0,test
+773,dataset/Audio/773.mp3,dataset/Lyrics/773.txt,dataset/MIDIs/773.mid,Fiery,Cluster 5,Whole Lotta Love,Led Zeppelin,Led Zeppelin II,1969.0,train
+774,dataset/Audio/774.mp3,,,Fiery,Cluster 5,Bells,"Ayler, Albert",Love Cry,1967.0,test
+775,dataset/Audio/775.mp3,,,Fiery,Cluster 5,Theme From Captain Black,"Ulmer, James Blood",Tales of Captain Black,1978.0,train
+776,dataset/Audio/776.mp3,dataset/Lyrics/776.txt,,Fiery,Cluster 5,Devil Went Down to Georgia,"Daniels, Charlie",Decade of Hits,1983.0,train
+777,dataset/Audio/777.mp3,dataset/Lyrics/777.txt,,Fiery,Cluster 5,Won't Get Fooled Again,Who [1],Who's Next,1971.0,train
+778,dataset/Audio/778.mp3,,,Fiery,Cluster 5,Big Nick,"Williams, Tony [Drums]",Turn It Over,1970.0,dev
+779,dataset/Audio/779.mp3,dataset/Lyrics/779.txt,,Fiery,Cluster 5,Sky Is Crying,"James, Elmore",Sky Is Crying: The History of Elmore James,1993.0,test
+780,dataset/Audio/780.mp3,,,Fiery,Cluster 5,Peliyot,Masada [1],Masada: Live in Jerusalem,1999.0,train
+781,dataset/Audio/781.mp3,,,Fiery,Cluster 5,Summertime Blues,Who [1],Live at Leeds [Deluxe Edition],2001.0,train
+782,dataset/Audio/782.mp3,,,Fiery,Cluster 5,,,,,train
+783,dataset/Audio/783.mp3,dataset/Lyrics/783.txt,dataset/MIDIs/783.mid,Fiery,Cluster 5,Fortunate Son,Creedence Clearwater Revival,Creedence Clearwater Revival [Box Set],2001.0,train
+784,dataset/Audio/784.mp3,dataset/Lyrics/784.txt,,Fiery,Cluster 5,God Save the Queen,Sex Pistols,Never Mind the Bollocks Here's the Sex Pistols,1977.0,train
+785,dataset/Audio/785.mp3,dataset/Lyrics/785.txt,,Fiery,Cluster 5,Cold Turkey,"Lennon, John",John Lennon Collection,1982.0,train
+786,dataset/Audio/786.mp3,dataset/Lyrics/786.txt,,Fiery,Cluster 5,Gloria: In Excelsis Deo/Gloria,"Smith, Patti",Horses,1975.0,train
+787,dataset/Audio/787.mp3,,,Fiery,Cluster 5,"Oh Bondage, Up Yours!",X Ray Spex,Germ Free Adolescents,1978.0,dev
+788,dataset/Audio/788.mp3,dataset/Lyrics/788.txt,,Fiery,Cluster 5,Rebel Without a Pause,Public Enemy,It Takes a Nation of Millions to Hold Us Back,1988.0,train
+789,dataset/Audio/789.mp3,,,Intense,Cluster 5,Levels and Degrees of Light,"Abrams, Muhal Richard",Levels and Degrees of Light,1967.0,train
+790,dataset/Audio/790.mp3,,,Intense,Cluster 5,Free Jazz,"Coleman, Ornette",Free Jazz (A Collective Improvisation),1960.0,dev
+791,dataset/Audio/791.mp3,dataset/Lyrics/791.txt,,Intense,Cluster 5,Come to Daddy,Aphex Twin,Come to Daddy EP,1997.0,test
+792,dataset/Audio/792.mp3,,,Intense,Cluster 5,Dark Was the Night (Cold Was the Ground),"Johnson, Blind Willie",Complete Blind Willie Johnson,1993.0,train
+793,dataset/Audio/793.mp3,,,Intense,Cluster 5,Bal Masque,"Douglas, Dave",Charms of the Night Sky,1998.0,test
+794,dataset/Audio/794.mp3,dataset/Lyrics/794.txt,dataset/MIDIs/794.mid,Intense,Cluster 5,House of the Rising Sun,Animals,Best of the Animals [ABKCO],1988.0,train
+795,dataset/Audio/795.mp3,,,Intense,Cluster 5,Big New Prinz,Fall,458489 A-Sides,1990.0,train
+796,dataset/Audio/796.mp3,,,Intense,Cluster 5,Fact and Fiction,Vandermark Five,Simpatico,1999.0,train
+797,dataset/Audio/797.mp3,dataset/Lyrics/797.txt,dataset/MIDIs/797.mid,Intense,Cluster 5,California Über Alles,Dead Kennedys,Fresh Fruit for Rotting Vegetables,1980.0,train
+798,dataset/Audio/798.mp3,dataset/Lyrics/798.txt,,Intense,Cluster 5,Isolation,Joy Division,Closer,1980.0,dev
+799,dataset/Audio/799.mp3,dataset/Lyrics/799.txt,,Intense,Cluster 5,Cool Drink of Water Blues,"Johnson, Tommy [1]",Complete Recorded Works (1928-1929),1929.0,train
+800,dataset/Audio/800.mp3,dataset/Lyrics/800.txt,,Intense,Cluster 5,Complete Control,Clash,Clash [US],1979.0,train
+801,dataset/Audio/801.mp3,,,Intense,Cluster 5,Tough Sledding,Steelwool Trio,International Front,1998.0,train
+802,dataset/Audio/802.mp3,dataset/Lyrics/802.txt,,Intense,Cluster 5,Come on in My Kitchen,"Johnson, Robert [01]",Roots of Taj Mahal,2000.0,train
+803,dataset/Audio/803.mp3,dataset/Lyrics/803.txt,,Intense,Cluster 5,Way I Am,Eminem,Marshall Mathers LP,2000.0,dev
+804,dataset/Audio/804.mp3,dataset/Lyrics/804.txt,,Intense,Cluster 5,Ballad of Medgar Evers,"Ochs, Phil",Early Years,2000.0,dev
+805,dataset/Audio/805.mp3,,,Intense,Cluster 5,Machine Gun,The Peter Brötzmann Quartet,Machine Gun,1968.0,train
+806,dataset/Audio/806.mp3,,,Intense,Cluster 5,Spirits Rejoice,"Ayler, Albert",Spirits Rejoice,1965.0,train
+807,dataset/Audio/807.mp3,dataset/Lyrics/807.txt,dataset/MIDIs/807.mid,Intense,Cluster 5,Killing in the Name,Rage Against The Machine,Rage Against the Machine,1992.0,train
+808,dataset/Audio/808.mp3,dataset/Lyrics/808.txt,dataset/MIDIs/808.mid,Intense,Cluster 5,Mother,"Lennon, John",John Lennon/Plastic Ono Band,1970.0,train
+809,dataset/Audio/809.mp3,dataset/Lyrics/809.txt,,Intense,Cluster 5,Evil,Howlin' Wolf,Howlin' Wolf/Moanin' in the Moonlight,1986.0,train
+810,dataset/Audio/810.mp3,dataset/Lyrics/810.txt,,Intense,Cluster 5,Venus in Furs,Velvet Underground & Nico,Velvet Underground & Nico,1967.0,train
+811,dataset/Audio/811.mp3,dataset/Lyrics/811.txt,,Intense,Cluster 5,Repeater,Fugazi,Repeater + 3 Songs,1990.0,train
+812,dataset/Audio/812.mp3,dataset/Lyrics/812.txt,dataset/MIDIs/812.mid,Intense,Cluster 5,Black Sabbath,Black Sabbath,Black Sabbath,1970.0,test
+813,dataset/Audio/813.mp3,dataset/Lyrics/813.txt,,Intense,Cluster 5,Me and a Gun,"Amos, Tori",Little Earthquakes,1992.0,train
+814,dataset/Audio/814.mp3,dataset/Lyrics/814.txt,,Tense - Anxious,Cluster 5,I Got You,Split Enz,History Never Repeats: The Best of Split Enz,1987.0,dev
+815,dataset/Audio/815.mp3,dataset/Lyrics/815.txt,dataset/MIDIs/815.mid,Tense - Anxious,Cluster 5,Can't Stand Losing You,Police,Outlandos d'Amour,1978.0,train
+816,dataset/Audio/816.mp3,dataset/Lyrics/816.txt,,Tense - Anxious,Cluster 5,Love Comes in Spurts,Richard Hell & the Voidoids,Blank Generation,1977.0,train
+817,dataset/Audio/817.mp3,dataset/Lyrics/817.txt,,Tense - Anxious,Cluster 5,Cross Bones Style,Cat Power,Moon Pix,1998.0,train
+818,dataset/Audio/818.mp3,dataset/Lyrics/818.txt,,Tense - Anxious,Cluster 5,Good Life,Weezer,Pinkerton,1996.0,test
+819,dataset/Audio/819.mp3,dataset/Lyrics/819.txt,,Tense - Anxious,Cluster 5,Ever Fallen in Love?,Buzzcocks,Singles Going Steady,1979.0,train
+820,dataset/Audio/820.mp3,dataset/Lyrics/820.txt,,Tense - Anxious,Cluster 5,Got the Time,"Jackson, Joe",Look Sharp!,1979.0,train
+821,dataset/Audio/821.mp3,dataset/Lyrics/821.txt,,Tense - Anxious,Cluster 5,Fa Cé-La,Feelies,Crazy Rhythms,1980.0,train
+822,dataset/Audio/822.mp3,dataset/Lyrics/822.txt,,Tense - Anxious,Cluster 5,"Radio, Radio",Elvis Costello & the Attractions,Very Best of Elvis Costello and the Attractions,1994.0,train
+823,dataset/Audio/823.mp3,dataset/Lyrics/823.txt,,Tense - Anxious,Cluster 5,Transmission,Jou Division,Substance,1988.0,test
+824,dataset/Audio/824.mp3,,,Tense - Anxious,Cluster 5,(I Want to Be an) Anglepoise Lamp,"Hitchcock, Robyn",Can of Bees,1979.0,train
+825,dataset/Audio/825.mp3,dataset/Lyrics/825.txt,,Tense - Anxious,Cluster 5,30 Seconds Over Tokyo,Pere Ubu,Terminal Tower,1985.0,test
+826,dataset/Audio/826.mp3,dataset/Lyrics/826.txt,,Tense - Anxious,Cluster 5,Final Solution,"Ubu, Pere",Terminal Tower,1985.0,train
+827,dataset/Audio/827.mp3,dataset/Lyrics/827.txt,,Tense - Anxious,Cluster 5,96 Tears,Question Mark & The Mysterians,Question Mark & the Mysterians,1997.0,dev
+828,dataset/Audio/828.mp3,dataset/Lyrics/828.txt,,Tense - Anxious,Cluster 5,Black Steel,Tricky [1],Maxinquaye,1995.0,train
+829,dataset/Audio/829.mp3,dataset/Lyrics/829.txt,,Tense - Anxious,Cluster 5,He's a Whore,Cheap Trick,Cheap Trick [1977],1977.0,train
+830,dataset/Audio/830.mp3,dataset/Lyrics/830.txt,,Tense - Anxious,Cluster 5,(I Can't Get No) Satisfaction,Devo,Pioneers Who Got Scalped: The Anthology,2000.0,train
+831,dataset/Audio/831.mp3,dataset/Lyrics/831.txt,,Tense - Anxious,Cluster 5,For the Damaged,Blonde Redhead,Melody of Certain Damaged Lemons,2000.0,train
+832,dataset/Audio/832.mp3,dataset/Lyrics/832.txt,,Tense - Anxious,Cluster 5,I Can See for Miles,Who [1],Meaty Beaty Big and Bouncy,1971.0,test
+833,dataset/Audio/833.mp3,dataset/Lyrics/833.txt,,Tense - Anxious,Cluster 5,'A' Bomb in Wardour Street,Jam,This Is the Modern World/All Mod Cons,2000.0,train
+834,dataset/Audio/834.mp3,dataset/Lyrics/834.txt,,Tense - Anxious,Cluster 5,Get Over You,Undertones,Very Best of the Undertones,1994.0,train
+835,dataset/Audio/835.mp3,dataset/Lyrics/835.txt,,Tense - Anxious,Cluster 5,White Lines (Don't Don't Do It),Grandmaster Melle Mel/Grandmaster Flash,"Message from Beat Street: The Best of Grandmaster Flash, Melle Mel & the Furious Five",1994.0,test
+836,dataset/Audio/836.mp3,dataset/Lyrics/836.txt,dataset/MIDIs/836.mid,Tense - Anxious,Cluster 5,Hard to Explain,Strokes,Is This It,2001.0,train
+837,dataset/Audio/837.mp3,dataset/Lyrics/837.txt,,Tense - Anxious,Cluster 5,Killing an Arab,Cure,Staring at the Sea: The Singles,1986.0,train
+838,dataset/Audio/838.mp3,dataset/Lyrics/838.txt,dataset/MIDIs/838.mid,Tense - Anxious,Cluster 5,Senses Working Overtime,XTC,English Settlement,1982.0,train
+839,dataset/Audio/839.mp3,dataset/Lyrics/839.txt,dataset/MIDIs/839.mid,Tense - Anxious,Cluster 5,This Is Pop?,XTC,White Music,1978.0,train
+840,dataset/Audio/840.mp3,dataset/Lyrics/840.txt,dataset/MIDIs/840.mid,Tense - Anxious,Cluster 5,Psycho Killer,Talking Heads,Talking Heads: 77,1977.0,train
+841,dataset/Audio/841.mp3,dataset/Lyrics/841.txt,,Tense - Anxious,Cluster 5,Do It Clean,Echo & the Bunnymen,Crocodiles,1980.0,train
+842,dataset/Audio/842.mp3,dataset/Lyrics/842.txt,,Tense - Anxious,Cluster 5,I Am the Fly,Wire,Chairs Missing [Restless Bonus Tracks],1989.0,test
+843,dataset/Audio/843.mp3,dataset/Lyrics/843.txt,dataset/MIDIs/843.mid,Tense - Anxious,Cluster 5,Mr. Brownstone,Guns N Roses,Appetite for Destruction,1987.0,train
+844,dataset/Audio/844.mp3,dataset/Lyrics/844.txt,,Tense - Anxious,Cluster 5,Sheela-Na-Gig,"Harvey, PJ",Dry,1992.0,train
+845,dataset/Audio/845.mp3,dataset/Lyrics/845.txt,,Visceral,Cluster 5,You Can't Have Me,Big Star,Third/Sister Lovers,1992.0,train
+846,dataset/Audio/846.mp3,,,Visceral,Cluster 5,Inflated Tear,"Kirk, Rahsaan Roland",Inflated Tear,1967.0,train
+847,dataset/Audio/847.mp3,dataset/Lyrics/847.txt,,Visceral,Cluster 5,Hurricane Fighter Plane,Red Krayola,Epitaph for a Legend,1980.0,train
+848,dataset/Audio/848.mp3,dataset/Lyrics/848.txt,,Visceral,Cluster 5,All Apologies,Nirvana [US],In Utero,1993.0,train
+849,dataset/Audio/849.mp3,dataset/Lyrics/849.txt,,Visceral,Cluster 5,In the Meantime,Helmet,Meantime,1992.0,train
+850,dataset/Audio/850.mp3,dataset/Lyrics/850.txt,,Visceral,Cluster 5,Freak on a Leash,Korn [1],Follow the Leader,1998.0,test
+851,dataset/Audio/851.mp3,dataset/Lyrics/851.txt,dataset/MIDIs/851.mid,Visceral,Cluster 5,More Human Than Human,White Zombie,Astro-Creep: 2000,1995.0,train
+852,dataset/Audio/852.mp3,dataset/Lyrics/852.txt,,Visceral,Cluster 5,Teen Age Riot,Sonic Youth,Daydream Nation,1988.0,train
+853,dataset/Audio/853.mp3,dataset/Lyrics/853.txt,dataset/MIDIs/853.mid,Visceral,Cluster 5,Iron Man,Black Sabbath,Paranoid,1971.0,test
+854,dataset/Audio/854.mp3,dataset/Lyrics/854.txt,,Visceral,Cluster 5,Death Valley '69,Sonic Youth,Screaming Fields of Sonic Love,1995.0,train
+855,dataset/Audio/855.mp3,,,Visceral,Cluster 5,Giant Steps,"Coltrane, John",Giant Steps,1959.0,train
+856,dataset/Audio/856.mp3,dataset/Lyrics/856.txt,,Visceral,Cluster 5,I'm Ready,Royal Trux,Accelerator,1998.0,train
+857,dataset/Audio/857.mp3,,,Visceral,Cluster 5,Flip Your Wig,Husker Du,Flip Your Wig,1985.0,train
+858,dataset/Audio/858.mp3,dataset/Lyrics/858.txt,,Visceral,Cluster 5,Raisans,Dinosaur Jr.,You're Living All Over Me,1987.0,test
+859,dataset/Audio/859.mp3,dataset/Lyrics/859.txt,,Visceral,Cluster 5,In a Jar,Dinosaur Jr.,You're Living All Over Me,1987.0,train
+860,dataset/Audio/860.mp3,dataset/Lyrics/860.txt,,Visceral,Cluster 5,Feed Me With Your Kiss,My Bloody Valentine,Isn't Anything,1988.0,train
+861,dataset/Audio/861.mp3,dataset/Lyrics/861.txt,,Visceral,Cluster 5,Loose,Stooges,Fun House,1970.0,train
+862,dataset/Audio/862.mp3,dataset/Lyrics/862.txt,dataset/MIDIs/862.mid,Visceral,Cluster 5,Gimme Shelter,Rolling Stones,Let It Bleed,1969.0,train
+863,dataset/Audio/863.mp3,dataset/Lyrics/863.txt,,Visceral,Cluster 5,Alternative Ulster,Stiff Little Fingers,Inflammable Material,1979.0,test
+864,dataset/Audio/864.mp3,dataset/Lyrics/864.txt,dataset/MIDIs/864.mid,Visceral,Cluster 5,War Pigs,Black Sabbath,We Sold Our Soul for Rock 'n' Roll,1976.0,train
+865,dataset/Audio/865.mp3,,,Visceral,Cluster 5,Autumn Acid,Mu Ziq,Royal Astronomy,1999.0,train
+866,dataset/Audio/866.mp3,,,Visceral,Cluster 5,Arc-Lite,Loop,Pspyched!,1999.0,train
+867,dataset/Audio/867.mp3,,,Visceral,Cluster 5,Don't Push Me Around,Zeros [1],Don't Push Me Around,1992.0,dev
+868,dataset/Audio/868.mp3,,,Visceral,Cluster 5,Dick Johnson,Pussy Galore,Dial 'M' for Motherfucker,1989.0,train
+869,dataset/Audio/869.mp3,dataset/Lyrics/869.txt,,Visceral,Cluster 5,Yü-Gung,Pussy Galore,Sugarshit Sharp,1988.0,train
+870,dataset/Audio/870.mp3,dataset/Lyrics/870.txt,,Visceral,Cluster 5,Taste of Cindy,Jesus And Mary Chain,Psychocandy,1985.0,train
+871,dataset/Audio/871.mp3,dataset/Lyrics/871.txt,,Visceral,Cluster 5,In 'N' Out of Grace,Mudhoney,March to Fuzz,2000.0,train
+872,dataset/Audio/872.mp3,dataset/Lyrics/872.txt,,Visceral,Cluster 5,Duel,Swervedriver,Mezcal Head,1993.0,train
+873,dataset/Audio/873.mp3,dataset/Lyrics/873.txt,,Visceral,Cluster 5,Chickamauga,Uncle Tupelo,Anodyne,1993.0,test
+874,dataset/Audio/874.mp3,dataset/Lyrics/874.txt,,Visceral,Cluster 5,Anarchy in the U.K.,Sex Pistols,Never Mind the Bollocks Here's the Sex Pistols,1977.0,dev
+875,dataset/Audio/875.mp3,dataset/Lyrics/875.txt,,Visceral,Cluster 5,Last Caress,"Misfits, The",Collection II,1995.0,train
+876,dataset/Audio/876.mp3,dataset/Lyrics/876.txt,,Visceral,Cluster 5,Gluey Porch Treatments,Melvins,Ozma,1989.0,train
+877,dataset/Audio/877.mp3,dataset/Lyrics/877.txt,,Volatile,Cluster 5,In the City,Jam [1],In the City,1977.0,dev
+878,dataset/Audio/878.mp3,dataset/Lyrics/878.txt,,Volatile,Cluster 5,Sonic Reducer,Dead Boys,Young Loud and Snotty,1977.0,train
+879,dataset/Audio/879.mp3,dataset/Lyrics/879.txt,,Volatile,Cluster 5,White Light/White Heat,Velvet Underground,White Light/White Heat,1968.0,train
+880,dataset/Audio/880.mp3,dataset/Lyrics/880.txt,,Volatile,Cluster 5,Personality Crisis,New York Dolls,New York Dolls,1973.0,train
+881,dataset/Audio/881.mp3,,,Volatile,Cluster 5,Truth Is Marching In,"Ayler, Albert",Live in Greenwich Village: The Complete Impulse Sessions,1998.0,train
+882,dataset/Audio/882.mp3,dataset/Lyrics/882.txt,,Volatile,Cluster 5,Nirvana,"Hatfield, Juliana",Hey Babe,1992.0,train
+883,dataset/Audio/883.mp3,dataset/Lyrics/883.txt,,Volatile,Cluster 5,Forming,Germs,(MIA): The Complete Anthology,1993.0,train
+884,dataset/Audio/884.mp3,dataset/Lyrics/884.txt,,Volatile,Cluster 5,In Bloom,Nirvana [US],Nevermind,1991.0,dev
+885,dataset/Audio/885.mp3,dataset/Lyrics/885.txt,,Volatile,Cluster 5,Modern Dance,Pere Ubu,Modern Dance,1978.0,test
+886,dataset/Audio/886.mp3,dataset/Lyrics/886.txt,dataset/MIDIs/886.mid,Volatile,Cluster 5,Epic,Faith No More,Real Thing,1989.0,dev
+887,dataset/Audio/887.mp3,dataset/Lyrics/887.txt,dataset/MIDIs/887.mid,Volatile,Cluster 5,Holiday in Cambodia,Dead Kennedys,Fresh Fruit for Rotting Vegetables,1980.0,train
+888,dataset/Audio/888.mp3,dataset/Lyrics/888.txt,,Volatile,Cluster 5,Cemetery Gates,Pantera,Cowboys from Hell,1990.0,train
+889,dataset/Audio/889.mp3,dataset/Lyrics/889.txt,,Volatile,Cluster 5,Counting Backwards,Throwing Muses,Real Ramona,1991.0,train
+890,dataset/Audio/890.mp3,dataset/Lyrics/890.txt,,Volatile,Cluster 5,Been Caught Stealing,Jane's Addiction,Ritual de lo Habitual,1990.0,train
+891,dataset/Audio/891.mp3,,,Volatile,Cluster 5,20 Jazz Funk Greats,Throbbing Gristle,20 Jazz Funk Greats,1979.0,train
+892,dataset/Audio/892.mp3,,,Volatile,Cluster 5,Nipples,"Brotamann, Peter/Sextet Quartet",Nipples,1969.0,train
+893,dataset/Audio/893.mp3,,,Volatile,Cluster 5,Blue Phase,"Abdullah, Ahmed/Brackeen, Charles/Mahujaa/Seals, Leroy/Evans, Richard [Bass]/Sinan, Rashied",Wildflowers: The New York Loft Jazz Sessions - Complete,1976.0,train
+894,dataset/Audio/894.mp3,dataset/Lyrics/894.txt,,Volatile,Cluster 5,I Don't Care About You,Fear [1],Record,1982.0,train
+895,dataset/Audio/895.mp3,dataset/Lyrics/895.txt,,Volatile,Cluster 5,Kiss Off,Violent Femmes,Violent Femmes,1983.0,train
+896,dataset/Audio/896.mp3,,,Volatile,Cluster 5,Heavy Mental (for Wayne Krantz),"Berne, Tim",Shell Game,2001.0,dev
+897,dataset/Audio/897.mp3,dataset/Lyrics/897.txt,,Volatile,Cluster 5,Exploited Barmy Army,Exploited,Singles,2000.0,train
+898,dataset/Audio/898.mp3,,,Volatile,Cluster 5,New Jack Hustler,Ice T,O.G. Original Gangster,1991.0,dev
+899,dataset/Audio/899.mp3,dataset/Lyrics/899.txt,,Volatile,Cluster 5,Smokestack Lightning,Howlin' Wolf,Howlin' Wolf/Moanin' in the Moonlight,1986.0,train
+900,dataset/Audio/900.mp3,dataset/Lyrics/900.txt,,Volatile,Cluster 5,I'm a Man,Yardbirds,"Greatest Hits, Vol. 1: 1964-1966",1986.0,test
+901,dataset/Audio/901.mp3,dataset/Lyrics/901.txt,,Volatile,Cluster 5,Blow Your Mind,Redman,Whut? Thee Album,1992.0,dev
+902,dataset/Audio/902.mp3,dataset/Lyrics/902.txt,dataset/MIDIs/902.mid,Volatile,Cluster 5,Paradise City,Guns N Roses,Appetite for Destruction,1987.0,train
+903,dataset/Audio/903.mp3,dataset/Lyrics/903.txt,,Volatile,Cluster 5,Deutschland (Has Gotta Die!),Atari Teenage Riot,"Burn, Berlin, Burn",1997.0,test
