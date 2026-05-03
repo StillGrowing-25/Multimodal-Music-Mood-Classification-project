@@ -1,0 +1,8 @@
+dataset/Audio/
+dataset/Lyrics/
+dataset/MIDIs/
+data/features.csv
+models/
+reports/
+__pycache__/
+*.pyc
