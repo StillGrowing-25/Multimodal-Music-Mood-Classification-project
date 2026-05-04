@@ -15,6 +15,7 @@ Rowdy · Fun · Silly · Volatile · Fiery · Intense · Humorous · Agressive
 ---
 
 ## Dataset Structure
+Dataset link https://www.kaggle.com/datasets/imsparsh/multimodal-mirex-emotion-dataset/discussion?sort=hotness
 
 ```
 dataset/
